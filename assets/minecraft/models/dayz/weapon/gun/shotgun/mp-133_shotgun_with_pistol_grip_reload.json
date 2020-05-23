@@ -1,0 +1,816 @@
+{
+	"__comment": "Gamelife-KingCiC",
+	"textures": {
+		"mp-133_shotgun_with_pistol_grip": "dayz/weapon/gun/shotgun/mp-133_shotgun_with_pistol_grip"
+	},
+	"elements": [
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip",
+			"from": [ 7.5, 7.5, -8 ],
+			"to": [ 8.5, 8.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0, 7.75, 8, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 0, 7.75, 8, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 0, 7.5, 0.25, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 0, 7.5, 8, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 8, 7.5, 0, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip1",
+			"from": [ 7, 6, -8 ],
+			"to": [ 9, 7, -7 ],
+			"faces": {
+				"down": { "uv": [ 0, 8.5, 0.5, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 0, 8.5, 0.5, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 0, 8.25, 0.25, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 0.5, 8.25, 0.25, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 0, 8.25, 0.5, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 0.5, 8.25, 0, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip2",
+			"from": [ 7.5, 6, -7 ],
+			"to": [ 8.5, 7, -6 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 8.5, 1, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 0.5, 8.5, 1, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"west": { "uv": [ 0.5, 8.25, 1, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 1, 8.25, 0.5, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip3",
+			"from": [ 7, 5.5, -6 ],
+			"to": [ 9, 7.5, 3 ],
+			"faces": {
+				"down": { "uv": [ 1, 8.75, 5.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 1, 8.25, 5.5, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 1, 8, 1.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 5.5, 8, 5.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 1, 8, 5.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 5.5, 8, 1, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip4",
+			"from": [ 7.5, 6, 3 ],
+			"to": [ 8.5, 7.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 8.5, 8, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"west": { "uv": [ 5.5, 8, 8, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 8, 8, 5.5, 8.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip5",
+			"from": [ 7.5, 8.5, -7.5 ],
+			"to": [ 8.5, 9, -7 ],
+			"faces": {
+				"up": { "uv": [ 0.25, 7.5, 0.5, 7.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 0.25, 7.25, 0.5, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 0.5, 7.25, 0.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 0.25, 7.25, 0.5, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 0.5, 7.25, 0.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7.5, 5, -5 ],
+			"to": [ 8.5, 5.5, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 1.5, 9, 3.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 1.5, 9, 1.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.75, 9, 3.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 1.5, 9, 3.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.75, 9, 1.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip7",
+			"from": [ 7.5, 4, -4 ],
+			"to": [ 8.5, 5, -1 ],
+			"faces": {
+				"down": { "uv": [ 2, 9.5, 3.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 2, 9.25, 2.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.5, 9.25, 3.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2, 9.25, 3.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.5, 9.25, 2, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip8",
+			"from": [ 7.5, 3, -3.5 ],
+			"to": [ 8.5, 4, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 10, 3.75, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 2.25, 10, 3.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 2.25, 9.75, 2.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.75, 9.75, 3.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.25, 9.75, 3.75, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.75, 9.75, 2.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip9",
+			"from": [ 7.5, 2, -3 ],
+			"to": [ 8.5, 3, 0 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 10.5, 4, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 2.5, 10.5, 4, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 2.5, 10.25, 2.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4, 10.25, 3.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.5, 10.25, 4, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4, 10.25, 2.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip10",
+			"from": [ 7.5, 1, -2.5 ],
+			"to": [ 8.5, 2, 0.5 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 11, 4.25, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 2.75, 11, 4.25, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 2.75, 10.75, 3, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4.25, 10.75, 4, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.75, 10.75, 4.25, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4.25, 10.75, 2.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip11",
+			"from": [ 7.5, 0, -2 ],
+			"to": [ 8.5, 0.5, 0 ],
+			"faces": {
+				"down": { "uv": [ 3, 11.5, 4, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3, 11.5, 3.25, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4, 11.5, 3.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3, 11.5, 4, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4, 11.5, 3, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip12",
+			"from": [ 7.5, 0.5, -2 ],
+			"to": [ 8.5, 1, 0.5 ],
+			"faces": {
+				"down": { "uv": [ 3, 11.25, 4.25, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3, 11.25, 3.25, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4.25, 11.25, 4, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3, 11.25, 4.25, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4.25, 11.25, 3, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip13",
+			"from": [ 7.5, -0.5, -2 ],
+			"to": [ 8.5, 0, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 3, 11.75, 3.75, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3, 11.75, 3.25, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.75, 11.75, 3.5, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3, 11.75, 3.75, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.75, 11.75, 3, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip14",
+			"from": [ 7.5, 7, -8 ],
+			"to": [ 8.5, 7.5, -7 ],
+			"faces": {
+				"north": { "uv": [ 0, 8, 0.25, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 0.5, 8, 0.25, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 0, 8, 0.5, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 0.5, 8, 0, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip15",
+			"from": [ 7.5, 5.5, -8 ],
+			"to": [ 8.5, 6, -7 ],
+			"faces": {
+				"down": { "uv": [ 0, 8.75, 0.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 0, 8.75, 0.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 0.5, 8.75, 0.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 0, 8.75, 0.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 0.5, 8.75, 0, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip16",
+			"from": [ 7, 5.5, 18.5 ],
+			"to": [ 9, 8.5, 19 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 8.75, 13.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 13.25, 7.75, 13.5, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 13.25, 7.5, 13.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.5, 7.5, 13.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.25, 7.5, 13.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.5, 7.5, 13.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip17",
+			"from": [ 7, 5.5, 19 ],
+			"to": [ 9, 8.5, 19.5 ],
+			"faces": {
+				"up": { "uv": [ 13.5, 7.75, 13.75, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 13.75, 7.5, 13.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.5, 7.5, 13.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.75, 7.5, 13.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip18",
+			"from": [ 7.5, 8.5, 18.5 ],
+			"to": [ 8.5, 9, 19.5 ],
+			"faces": {
+				"up": { "uv": [ 13.25, 7.5, 13.75, 7.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 13.75, 7.25, 13.5, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.25, 7.25, 13.75, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.75, 7.25, 13.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip19",
+			"from": [ 7.5, 8, 19.5 ],
+			"to": [ 8.5, 8.5, 20.5 ],
+			"faces": {
+				"up": { "uv": [ 13.75, 7.75, 14.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 14.25, 7.5, 14, 7.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.75, 7.5, 14.25, 7.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.25, 7.5, 13.75, 7.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip20",
+			"from": [ 7.5, 7.5, 20.5 ],
+			"to": [ 8.5, 8, 21.5 ],
+			"faces": {
+				"up": { "uv": [ 14.25, 8, 14.75, 7.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 14.75, 7.75, 14.5, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.25, 7.75, 14.75, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.75, 7.75, 14.25, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip21",
+			"from": [ 7.5, 7, 21.5 ],
+			"to": [ 8.5, 7.5, 22.5 ],
+			"faces": {
+				"up": { "uv": [ 14.75, 8.25, 15.25, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 15.25, 8, 15, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.75, 8, 15.25, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.25, 8, 14.75, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip22",
+			"from": [ 7.5, 6.5, 22.5 ],
+			"to": [ 8.5, 7, 23.5 ],
+			"faces": {
+				"up": { "uv": [ 15.25, 8.5, 15.75, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 15.75, 8.25, 15.5, 8.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.25, 8.25, 15.75, 8.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.75, 8.25, 15.25, 8.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip23",
+			"from": [ 7, 5.5, 19.5 ],
+			"to": [ 9, 8, 20.5 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 8.75, 14.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 13.75, 8, 14.25, 7.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 14.25, 7.75, 14, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.75, 7.75, 14.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.25, 7.75, 13.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip24",
+			"from": [ 7, 5.5, 20.5 ],
+			"to": [ 9, 7.5, 21.5 ],
+			"faces": {
+				"up": { "uv": [ 14.25, 8.25, 14.75, 8 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 14.75, 8, 14.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.25, 8, 14.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.75, 8, 14.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip25",
+			"from": [ 7, 5.5, 21.5 ],
+			"to": [ 9, 7, 22.5 ],
+			"faces": {
+				"up": { "uv": [ 14.75, 8.5, 15.25, 8.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 15.25, 8.25, 15, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.75, 8.25, 15.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.25, 8.25, 14.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip26",
+			"from": [ 7, 5.5, 22.5 ],
+			"to": [ 9, 6.5, 23.5 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 8.75, 15.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 15.25, 8.75, 15.75, 8.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 15.75, 8.5, 15.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.25, 8.5, 15.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.75, 8.5, 15.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip27",
+			"from": [ 7, 5, 20 ],
+			"to": [ 9, 5.5, 23 ],
+			"faces": {
+				"down": { "uv": [ 14, 9, 15.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 14, 9.25, 15.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14, 9, 14.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 9, 15.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14, 9, 15.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 9, 14, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip28",
+			"from": [ 7.5, 4, 22 ],
+			"to": [ 8.5, 5, 22.5 ],
+			"faces": {
+				"north": { "uv": [ 15, 9.25, 15.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.25, 9.25, 15, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15, 9.25, 15.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.25, 9.25, 15, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip29",
+			"from": [ 7.5, 3, 22.5 ],
+			"to": [ 8.5, 4, 23 ],
+			"faces": {
+				"up": { "uv": [ 15.25, 10, 15.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 15.25, 9.75, 15.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 9.75, 15.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.25, 9.75, 15.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 9.75, 15.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip30",
+			"from": [ 7.5, 2, 23 ],
+			"to": [ 8.5, 3, 23.5 ],
+			"faces": {
+				"up": { "uv": [ 15.5, 10.5, 15.75, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 15.75, 10.25, 15.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.5, 10.25, 15.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.75, 10.25, 15.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip31",
+			"from": [ 7.5, 1, 23.5 ],
+			"to": [ 8.5, 2, 24 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 11, 16, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 15.75, 11, 16, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"south": { "uv": [ 16, 10.75, 15.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.75, 10.75, 16, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 16, 10.75, 15.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip32",
+			"from": [ 7.5, 0, 23 ],
+			"to": [ 8.5, 1, 23.5 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 11.5, 15.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 15.5, 11.25, 15.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.75, 11.25, 15.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15.5, 11.25, 15.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.75, 11.25, 15.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip33",
+			"from": [ 7.5, -0.5, 21 ],
+			"to": [ 8.5, 0, 23 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.75, 15.5, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 14.5, 12, 15.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14.5, 11.75, 14.75, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 11.75, 15.25, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.5, 11.75, 15.5, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 11.75, 14.5, 12 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip34",
+			"from": [ 7.5, 0, 21.5 ],
+			"to": [ 8.5, 0.5, 22 ],
+			"faces": {
+				"north": { "uv": [ 14.75, 11.5, 15, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.75, 11.5, 15, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15, 11.5, 14.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip35",
+			"from": [ 7.5, 0.5, 21 ],
+			"to": [ 8.5, 2, 21.5 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.25, 14.75, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 14.5, 10.75, 14.75, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 14.75, 10.75, 14.5, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.5, 10.75, 14.75, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.75, 10.75, 14.5, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip36",
+			"from": [ 7.5, 2, 20.5 ],
+			"to": [ 8.5, 3, 21 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 10.5, 14.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 14.25, 10.25, 14.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.25, 10.25, 14.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.5, 10.25, 14.25, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip37",
+			"from": [ 7.5, 3, 20 ],
+			"to": [ 8.5, 3.5, 20.5 ],
+			"faces": {
+				"down": { "uv": [ 14, 10, 14.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 14, 10, 14.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14, 10, 14.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.25, 10, 14, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip38",
+			"from": [ 7.5, 3.5, 19.5 ],
+			"to": [ 8.5, 4.5, 20 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 9.75, 14, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 13.75, 9.75, 14, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 13.75, 9.5, 14, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 14, 9.5, 13.75, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.75, 9.5, 14, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14, 9.5, 13.75, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip39",
+			"from": [ 7.5, 4.5, 20 ],
+			"to": [ 8.5, 5, 20.5 ],
+			"faces": {
+				"north": { "uv": [ 14, 9.25, 14.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14, 9.25, 14.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 14.25, 9.25, 14, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip40",
+			"from": [ 7, 4.5, 20.5 ],
+			"to": [ 9, 5, 22 ],
+			"faces": {
+				"north": { "uv": [ 14.25, 9.25, 14.5, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15, 9.25, 14.75, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.25, 9.25, 15, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15, 9.25, 14.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip41",
+			"from": [ 7, 4, 20 ],
+			"to": [ 9, 4.5, 22 ],
+			"faces": {
+				"up": { "uv": [ 14, 9.75, 15, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14, 9.5, 14.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15, 9.5, 14.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14, 9.5, 15, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15, 9.5, 14, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip42",
+			"from": [ 7, 3.5, 20 ],
+			"to": [ 9, 4, 22.5 ],
+			"faces": {
+				"down": { "uv": [ 14, 9.75, 15.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 14, 10, 15.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14, 9.75, 14.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.25, 9.75, 15, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14, 9.75, 15.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.25, 9.75, 14, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip43",
+			"from": [ 7, 3, 20.5 ],
+			"to": [ 9, 3.5, 22.5 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 10, 15.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 14.25, 10, 14.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.25, 10, 15, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.25, 10, 15.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.25, 10, 14.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip44",
+			"from": [ 7, 2, 21 ],
+			"to": [ 9, 3, 23 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 10.5, 15.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 14.5, 10.5, 15.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14.5, 10.25, 14.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 10.25, 15.25, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.5, 10.25, 15.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 10.25, 14.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip45",
+			"from": [ 7, 1, 21.5 ],
+			"to": [ 9, 2, 23.5 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 11, 15.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 14.75, 11, 15.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 14.75, 10.75, 15, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.75, 10.75, 15.5, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.75, 10.75, 15.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.75, 10.75, 14.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip46",
+			"from": [ 7, 0.5, 21.5 ],
+			"to": [ 9, 1, 23 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 11.25, 15.5, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 14.75, 11.25, 15, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 11.25, 15.25, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 14.75, 11.25, 15.5, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 11.25, 14.75, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip47",
+			"from": [ 7, 0, 22 ],
+			"to": [ 9, 0.5, 23 ],
+			"faces": {
+				"down": { "uv": [ 15, 11.5, 15.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 15, 11.5, 15.25, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 15.5, 11.5, 15.25, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 15, 11.5, 15.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 15.5, 11.5, 15, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip48",
+			"from": [ 7.5, 5, 17.5 ],
+			"to": [ 8.5, 5.5, 19.5 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 9, 13.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 12.75, 9.25, 13.75, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 12.75, 9, 13, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.75, 9, 13.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 12.75, 9, 13.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.75, 9, 12.75, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip49",
+			"from": [ 7.5, 5, 14 ],
+			"to": [ 8.5, 5.5, 17 ],
+			"faces": {
+				"down": { "uv": [ 11, 9, 12.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 11, 9, 11.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 12.5, 9, 12.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 11, 9, 12.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 12.5, 9, 11, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip50",
+			"from": [ 7.5, 4.5, 14.5 ],
+			"to": [ 8.5, 5, 16.5 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 9.25, 12.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 11.25, 9.25, 11.5, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 12.25, 9.25, 12, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 11.25, 9.25, 12.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 12.25, 9.25, 11.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip51",
+			"from": [ 7.5, 4.5, 18 ],
+			"to": [ 8.5, 5, 19 ],
+			"faces": {
+				"down": { "uv": [ 13, 9.25, 13.5, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 13, 9.25, 13.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.5, 9.25, 13.25, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13, 9.25, 13.5, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.5, 9.25, 13, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip52",
+			"from": [ 7.5, 4, 18.5 ],
+			"to": [ 8.5, 4.5, 19 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 9.5, 13.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 13.25, 9.5, 13.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.5, 9.5, 13.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 13.25, 9.5, 13.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.5, 9.5, 13.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip53",
+			"from": [ 7.5, 3.5, 16 ],
+			"to": [ 8.5, 4, 18.5 ],
+			"faces": {
+				"down": { "uv": [ 12, 9.75, 13.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 12, 10, 13.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 12, 9.75, 12.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.25, 9.75, 13, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 12, 9.75, 13.25, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.25, 9.75, 12, 10 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip54",
+			"from": [ 7.5, 4, 15.5 ],
+			"to": [ 8.5, 4.5, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 9.5, 12, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 11.75, 9.5, 12, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 12, 9.5, 11.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 11.75, 9.5, 12, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 12, 9.5, 11.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip55",
+			"from": [ 7.5, 4, 17.5 ],
+			"to": [ 8.5, 4.5, 18 ],
+			"faces": {
+				"up": { "uv": [ 12.75, 9.75, 13, 9.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 12.75, 9.5, 13, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13, 9.5, 12.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 12.75, 9.5, 13, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13, 9.5, 12.75, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 0, -1.5 ],
+			"to": [ 9, 0.5, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 11.5, 3.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3.25, 11.5, 3.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.75, 11.5, 3.5, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3.25, 11.5, 3.75, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.75, 11.5, 3.25, 11.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 5, -4 ],
+			"to": [ 9, 5.5, -1 ],
+			"faces": {
+				"down": { "uv": [ 2, 9, 3.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 2, 9, 2.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.5, 9, 3.25, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2, 9, 3.5, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.5, 9, 2, 9.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 4, -3.5 ],
+			"to": [ 9, 5, -1.5 ],
+			"faces": {
+				"down": { "uv": [ 2.25, 9.5, 3.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 2.25, 9.25, 2.5, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.25, 9.25, 3, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.25, 9.25, 3.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.25, 9.25, 2.25, 9.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 3, -3 ],
+			"to": [ 9, 4, -1 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 10, 3.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 2.5, 9.75, 2.75, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.5, 9.75, 3.25, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.5, 9.75, 3.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.5, 9.75, 2.5, 10.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 2, -2.5 ],
+			"to": [ 9, 3, -0.5 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 10.5, 3.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 2.75, 10.25, 3, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 3.75, 10.25, 3.5, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 2.75, 10.25, 3.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 3.75, 10.25, 2.75, 10.75 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 1, -2 ],
+			"to": [ 9, 2, 0 ],
+			"faces": {
+				"down": { "uv": [ 3, 11, 4, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3, 10.75, 3.25, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4, 10.75, 3.75, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3, 10.75, 4, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4, 10.75, 3, 11.25 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip6",
+			"from": [ 7, 0.5, -1.5 ],
+			"to": [ 9, 1, 0 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 11.25, 4, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"north": { "uv": [ 3.25, 11.25, 3.5, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 4, 11.25, 3.75, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 3.25, 11.25, 4, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 4, 11.25, 3.25, 11.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip16",
+			"from": [ 7, 5.5, 8 ],
+			"to": [ 9, 8.5, 18.5 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 8.75, 13.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 8.25, 7.5, 13.25, 7.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 8.25, 7.25, 8.5, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.25, 7.25, 13, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 8, 7.5, 13.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.25, 7.25, 8.25, 9 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		},
+		{
+			"__comment": "mp-133_shotgun_with_pistol_grip16",
+			"from": [ 7.5, 8.5, 8 ],
+			"to": [ 8.5, 9, 18.5 ],
+			"faces": {
+				"down": { "uv": [ 8, 7.25, 13.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 270 },
+				"up": { "uv": [ 8, 7.5, 13.25, 7.25 ], "texture": "#mp-133_shotgun_with_pistol_grip", "rotation": 90 },
+				"north": { "uv": [ 8, 7.25, 8.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"south": { "uv": [ 13.25, 7.25, 13, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"west": { "uv": [ 8, 7.25, 13.25, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" },
+				"east": { "uv": [ 13.25, 7.25, 8, 7.5 ], "texture": "#mp-133_shotgun_with_pistol_grip" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 1.25, -3.25 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 0, 90 ],
+			"translation":  [ -1.5, -4.5, 10 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 30, 0, -30 ],
+			"translation":  [ -6, 3, -3 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 75, -45, 50 ],
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ 0, 0, 90 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ]
+		}
+	}
+}

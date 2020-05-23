@@ -1,0 +1,198 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"ice_hockey_stick": "dayz/weapon/melee/ice_hockey_stick"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 7.5, -8, 7.5 ],
+			"to": [ 8.5, 19.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 15.75, 8.25, 16 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 7.75, 2.5, 8.25, 2.25 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 8.25, 2.25, 7.75, 16 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 7.75, 2.25, 8.25, 16 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 7.75, 2.25, 8, 16 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 8.25, 2.25, 8, 16 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 8.5, 17, 7.5 ],
+			"to": [ 9, 19.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 3.25, 8.5, 3.5 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.25, 2.5, 8.5, 2.25 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 8.5, 2.25, 8.25, 3.5 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.25, 2.25, 8.5, 3.5 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.25, 2.25, 8.5, 3.5 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 8.5, 2.25, 8.25, 3.5 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 9, 19, 7.5 ],
+			"to": [ 9.5, 19.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 2.25, 8.75, 2.5 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.5, 2.5, 8.75, 2.25 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 8.75, 2.25, 8.5, 2.5 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.5, 2.25, 8.75, 2.5 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.5, 2.25, 8.75, 2.5 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 8.75, 2.25, 8.5, 2.5 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 8, 19.5, 7.5 ],
+			"to": [ 9.5, 20, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8, 2, 8.75, 2.25 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8, 2.25, 8.75, 2 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 8.75, 2, 8, 2.25 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8, 2, 8.75, 2.25 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8, 2, 8.25, 2.25 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 8.75, 2, 8.5, 2.25 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 8, 20, 7.5 ],
+			"to": [ 10, 20.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8, 1.75, 9, 2 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8, 2, 9, 1.75 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 9, 1.75, 8, 2 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8, 1.75, 9, 2 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8, 1.75, 8.25, 2 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 9, 1.75, 8.75, 2 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 8.5, 20.5, 7.5 ],
+			"to": [ 10.5, 21, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 1.5, 9.25, 1.75 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.25, 1.75, 9.25, 1.5 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 9.25, 1.5, 8.25, 1.75 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.25, 1.5, 9.25, 1.75 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.25, 1.5, 8.5, 1.75 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 9.25, 1.5, 9, 1.75 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 8.5, 21, 7.5 ],
+			"to": [ 11.5, 21.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 1.25, 9.75, 1.5 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.25, 1.5, 9.75, 1.25 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 9.75, 1.25, 8.25, 1.5 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.25, 1.25, 9.75, 1.5 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.25, 1.25, 8.5, 1.5 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 9.75, 1.25, 9.5, 1.5 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 9, 21.5, 7.5 ],
+			"to": [ 12.5, 22, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 1, 10.25, 1.25 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.5, 1.25, 10.25, 1 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 10.25, 1, 8.5, 1.25 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.5, 1, 10.25, 1.25 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.5, 1, 8.75, 1.25 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 10.25, 1, 10, 1.25 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 9.5, 22, 7.5 ],
+			"to": [ 13.5, 22.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 0.75, 10.75, 1 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 8.75, 1, 10.75, 0.75 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 10.75, 0.75, 8.75, 1 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 8.75, 0.75, 10.75, 1 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 8.75, 0.75, 9, 1 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 10.75, 0.75, 10.5, 1 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 10, 22.5, 7.5 ],
+			"to": [ 13.5, 23, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 9, 0.5, 10.75, 0.75 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 9, 0.75, 10.75, 0.5 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 10.75, 0.5, 9, 0.75 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 9, 0.5, 10.75, 0.75 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 9, 0.5, 9.25, 0.75 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 10.75, 0.5, 10.5, 0.75 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 10.5, 23, 7.5 ],
+			"to": [ 13, 23.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 0.25, 10.5, 0.5 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 9.25, 0.5, 10.5, 0.25 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 10.5, 0.25, 9.25, 0.5 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 9.25, 0.25, 10.5, 0.5 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 9.25, 0.25, 9.5, 0.5 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 10.5, 0.25, 10.25, 0.5 ], "texture": "#ice_hockey_stick" }
+			}
+		},
+		{
+			"__comment": "ice_hockey_stick8",
+			"from": [ 11.5, 23.5, 7.5 ],
+			"to": [ 12.5, 24, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 0, 10.25, 0.25 ], "texture": "#ice_hockey_stick" },
+				"up": { "uv": [ 9.75, 0.25, 10.25, 0 ], "texture": "#ice_hockey_stick" },
+				"north": { "uv": [ 10.25, 0, 9.75, 0.25 ], "texture": "#ice_hockey_stick" },
+				"south": { "uv": [ 9.75, 0, 10.25, 0.25 ], "texture": "#ice_hockey_stick" },
+				"west": { "uv": [ 9.75, 0, 10, 0.25 ], "texture": "#ice_hockey_stick" },
+				"east": { "uv": [ 10.25, 0, 10, 0.25 ], "texture": "#ice_hockey_stick" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 6.125, 1.25 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, -180, 45 ],
+			"translation":  [ -6, -6, 9 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -90, -60, -90 ],
+			"translation":  [ -3, 0, -3 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 0, -30 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ 90, 0, 90 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

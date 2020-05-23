@@ -1,0 +1,132 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"steak_knife": "dayz/weapon/melee/steak_knife"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "steak_knife",
+			"from": [ 7.5, 0, 7 ],
+			"to": [ 8.5, 6, 9 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 15.5, 8.5, 16 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 7.5, 10.5, 8.5, 10 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 8.5, 10, 7.5, 16 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 7.5, 10, 8.5, 16 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 7.5, 10, 8, 16 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 8.5, 10, 8, 16 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife1",
+			"from": [ 7, 0, 7.5 ],
+			"to": [ 7.5, 6, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7, 15.5, 7.5, 16 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 7, 10.5, 7.5, 10 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 7.5, 10, 7, 16 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 7, 10, 7.5, 16 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 7, 10, 7.5, 16 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 7.5, 10, 7, 16 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife2",
+			"from": [ 8.5, 0, 7.5 ],
+			"to": [ 9, 6, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 15.5, 9, 16 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 8.5, 10.5, 9, 10 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 9, 10, 8.5, 16 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 8.5, 10, 9, 16 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 8.5, 10, 9, 16 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 9, 10, 8.5, 16 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife3",
+			"from": [ 7, 6, 7.75 ],
+			"to": [ 7.5, 14, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7, 9.5, 7.5, 10 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 7, 2.5, 7.5, 2 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 7.5, 2, 7, 10 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 7, 2, 7.5, 10 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 7, 2, 7.5, 10 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 7.5, 2, 7, 10 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife4",
+			"from": [ 8.5, 6, 7.75 ],
+			"to": [ 9, 16, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 9.5, 9, 10 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 8.5, 0.5, 9, 0 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 9, 0, 8.5, 10 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 8.5, 0, 9, 10 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 8.5, 0, 9, 10 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 9, 0, 8.5, 10 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife5",
+			"from": [ 8, 6, 7.75 ],
+			"to": [ 8.5, 15.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 8, 9.5, 8.5, 10 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 8, 1, 8.5, 0.5 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 8.5, 0.5, 8, 10 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 8, 0.5, 8.5, 10 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 8, 0.5, 8.5, 10 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 8.5, 0.5, 8, 10 ], "texture": "#steak_knife" }
+			}
+		},
+		{
+			"__comment": "steak_knife6",
+			"from": [ 7.5, 6, 7.75 ],
+			"to": [ 8, 15, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 9.5, 8, 10 ], "texture": "#steak_knife" },
+				"up": { "uv": [ 7.5, 1.5, 8, 1 ], "texture": "#steak_knife" },
+				"north": { "uv": [ 8, 1, 7.5, 10 ], "texture": "#steak_knife" },
+				"south": { "uv": [ 7.5, 1, 8, 10 ], "texture": "#steak_knife" },
+				"west": { "uv": [ 7.5, 1, 8, 10 ], "texture": "#steak_knife" },
+				"east": { "uv": [ 8, 1, 7.5, 10 ], "texture": "#steak_knife" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 1.5, 1 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, -90, 45 ],
+			"translation":  [ -10.5, -1.5, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 15 ],
+			"translation":  [ 0, 0, -6 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 0, -45 ],
+			"translation":  [ -1, -0.75, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 90 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
+}

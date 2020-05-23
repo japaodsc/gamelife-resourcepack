@@ -1,0 +1,10 @@
+{
+	"__comment": "Gamelife-KingCiC",
+	"parent": "block/fence_side2",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "dayz/blocks/test"
+	},
+	"elements": [
+	]
+}

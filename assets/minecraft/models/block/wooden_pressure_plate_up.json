@@ -1,0 +1,725 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"m67_explosive_grenade": "dayz/weapon/explosive/m67_explosive_grenade",
+		"booby_trap": "dayz/weapon/explosive/booby_trap"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "m67_explosive_grenade",
+			"from": [ 0.775, 14.65, 2.125 ],
+			"to": [ 1.9, 14.875, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 6, 1, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0.5, 6, 1, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 0, 8.5, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 0, 8.5, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 0.5, 0, 1, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0.5, 0, 1, 0.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade1",
+			"from": [ 0.775, 14.65, 0.775 ],
+			"to": [ 1.9, 14.875, 1 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 6, 4, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 3.5, 6, 4, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 0, 8.5, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 0, 8.5, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 3.5, 0, 4, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 3.5, 0, 4, 0.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade2",
+			"from": [ 0.55, 14.65, 1 ],
+			"to": [ 2.125, 14.875, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 1, 5.5, 3.5, 9 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 1, 5.5, 3.5, 9 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 0.5, 5, 4, 5.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 0.5, 5, 4, 5.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 1, 0, 3.5, 0.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 1, 0, 3.5, 0.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade3",
+			"from": [ 0.55, 14.425, 0.775 ],
+			"to": [ 2.125, 14.65, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 5.5, 4, 9 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0.5, 5.5, 4, 9 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 0.5, 5.5, 4, 6 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 0.5, 5.5, 4, 6 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 5.5, 0.5, 9, 1 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0.5, 0.5, 4, 1 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade4",
+			"from": [ 0.325, 14.425, 1 ],
+			"to": [ 2.35, 14.65, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 1, 5, 3.5, 9.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 1, 5, 3.5, 9.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 5, 0.5, 9.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 5, 0.5, 9.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 1, 0.5, 3.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 1, 0.5, 3.5, 1 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade5",
+			"from": [ 0.775, 14.425, 2.35 ],
+			"to": [ 1.9, 14.65, 2.575 ],
+			"faces": {
+				"down": { "uv": [ 0, 6, 0.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0, 6, 0.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 0.5, 8.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 0.5, 8.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 0, 0.5, 0.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0, 0.5, 0.5, 1 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade6",
+			"from": [ 0.775, 14.425, 0.55 ],
+			"to": [ 1.9, 14.65, 0.775 ],
+			"faces": {
+				"down": { "uv": [ 4, 6, 4.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 4, 6, 4.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 0.5, 8.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 0.5, 8.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 4, 0.5, 4.5, 1 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 4, 0.5, 4.5, 1 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade7",
+			"from": [ 0.325, 13.3, 0.775 ],
+			"to": [ 2.35, 14.425, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 1, 13, 0 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 13, 0, 12.5, 1 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 13.5, 0.5, 12.5, 0 ], "texture": "#booby_trap", "rotation": 270 },
+				"south": { "uv": [ 12.5, 1, 13.5, 0.5 ], "texture": "#booby_trap", "rotation": 90 },
+				"west": { "uv": [ 12.5, 1, 13.5, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"east": { "uv": [ 13.5, 1, 12.5, 0 ], "texture": "#booby_trap", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade8",
+			"from": [ 0.325, 13.075, 1 ],
+			"to": [ 2.35, 13.3, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 1, 5, 3.5, 9.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 1, 5, 3.5, 9.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 5, 3.5, 9.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 5, 3.5, 9.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 1, 3.5, 3.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 1, 3.5, 3.5, 4 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade9",
+			"from": [ 0.55, 13.3, 2.35 ],
+			"to": [ 2.125, 14.425, 2.575 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 15.5, 12.5, 16 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 13.5, 1.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 12.5, 1, 13.5, 0 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 13.5, 1, 12.5, 0 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 13.5, 1, 14, 0 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 1, 12, 0 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade10",
+			"from": [ 0.55, 13.3, 0.55 ],
+			"to": [ 2.125, 14.425, 0.775 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 15.5, 13.5, 16 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 12.5, 1.5, 13.5, 1 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 13.5, 1, 12.5, 0 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 12.5, 1, 13.5, 0 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 12.5, 1, 13, 0 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 13.5, 1, 13, 0 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade11",
+			"from": [ 0.55, 13.075, 2.125 ],
+			"to": [ 2.125, 13.3, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 5.5, 1, 9 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0.5, 5.5, 1, 9 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 5.5, 3.5, 9, 4 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 5.5, 3.5, 9, 4 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 0.5, 3.5, 1, 4 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0.5, 3.5, 1, 4 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade12",
+			"from": [ 0.55, 13.075, 0.775 ],
+			"to": [ 2.125, 13.3, 1 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 5.5, 4, 9 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 3.5, 5.5, 4, 9 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 0.5, 8.5, 4, 9 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 0.5, 8.5, 4, 9 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 3.5, 3.5, 4, 4 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 3.5, 3.5, 4, 4 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade13",
+			"from": [ 0.775, 13.075, 0.55 ],
+			"to": [ 1.9, 13.3, 0.775 ],
+			"faces": {
+				"down": { "uv": [ 4, 6, 4.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 4, 6, 4.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 3.5, 8.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 3.5, 8.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 4, 3.5, 4.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 4, 3.5, 4.5, 4 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade14",
+			"from": [ 0.775, 13.075, 2.35 ],
+			"to": [ 1.9, 13.3, 2.575 ],
+			"faces": {
+				"down": { "uv": [ 0, 6, 0.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0, 6, 0.5, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 3.5, 8.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 3.5, 8.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 0, 3.5, 0.5, 4 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0, 3.5, 0.5, 4 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade15",
+			"from": [ 0.55, 12.85, 1 ],
+			"to": [ 2.125, 13.075, 2.125 ],
+			"faces": {
+				"down": { "uv": [ 1, 5.5, 3.5, 9 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 1, 5.5, 3.5, 9 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 5.5, 4, 9, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 5.5, 4, 9, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 1, 4, 3.5, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 1, 4, 3.5, 4.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade16",
+			"from": [ 0.775, 12.85, 2.125 ],
+			"to": [ 1.9, 13.075, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 6, 1, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 0.5, 6, 1, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 6, 4, 8.5, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 4, 8.5, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 0.5, 4, 1, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 0.5, 4, 1, 4.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade17",
+			"from": [ 0.775, 12.85, 0.775 ],
+			"to": [ 1.9, 13.075, 1 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 6, 4, 8.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 3.5, 8.5, 4, 6 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 8.5, 4, 6, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 6, 4, 8.5, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 4, 4, 3.5, 4.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 3.5, 4, 4, 4.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade18",
+			"from": [ 1, 15.4234, 2.8984 ],
+			"to": [ 1.675, 15.6484, 3.1234 ],
+			"rotation": { "origin": [ 1.000001, 15.42344, 3.123437 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 16, 11.5, 14.5, 12 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"up": { "uv": [ 16, 12, 14.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"north": { "uv": [ 14.5, 12, 16, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"south": { "uv": [ 16, 12, 14.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"west": { "uv": [ 15, 12, 14.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"east": { "uv": [ 15.5, 12, 16, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade19",
+			"from": [ 1.45, 15.4234, 2.6734 ],
+			"to": [ 1.675, 15.6484, 2.8984 ],
+			"rotation": { "origin": [ 1.000002, 15.42344, 3.123437 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 16, 11, 15.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"up": { "uv": [ 16, 11.5, 15.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"north": { "uv": [ 15.5, 11.5, 16, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"south": { "uv": [ 16, 11.5, 15.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"west": { "uv": [ 16, 11.5, 15.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"east": { "uv": [ 15.5, 11.5, 16, 11 ], "texture": "#m67_explosive_grenade", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade20",
+			"from": [ 1, 15.4234, 2.6734 ],
+			"to": [ 1.225, 15.6484, 2.8984 ],
+			"rotation": { "origin": [ 1.000002, 15.42344, 3.123437 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 15, 11, 14.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"up": { "uv": [ 15, 11.5, 14.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"north": { "uv": [ 14.5, 11.5, 15, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"south": { "uv": [ 15, 11.5, 14.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 180 },
+				"west": { "uv": [ 15, 11.5, 14.5, 11 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"east": { "uv": [ 14.5, 11.5, 15, 11 ], "texture": "#m67_explosive_grenade", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade21",
+			"from": [ 1, 14.875, 1.225 ],
+			"to": [ 1.675, 15.325, 1.9 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 11.5, 14, 12 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 12.5, 11.5, 14, 11 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 14, 11, 13.5, 12 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 12.5, 11, 13, 12 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 14, 11, 12.5, 12 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 12.5, 11, 14, 12 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade22",
+			"from": [ 1, 15.325, 1.225 ],
+			"to": [ 1.675, 15.775, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 10.5, 14, 11 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 11.5, 10.5, 14, 10 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 14, 10, 13.5, 11 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 11.5, 10, 12, 11 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 14, 10, 11.5, 11 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 11.5, 10, 14, 11 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade23",
+			"from": [ 1, 15.775, 1 ],
+			"to": [ 1.675, 16, 2.35 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 9.5, 14.5, 10 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 11.5, 10, 14.5, 9.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 14.5, 9.5, 14, 10 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 11.5, 9.5, 12, 10 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 14.5, 9.5, 11.5, 10 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 11.5, 9.5, 14.5, 10 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade24",
+			"from": [ 1, 15.1, 2.35 ],
+			"to": [ 1.675, 15.775, 2.575 ],
+			"faces": {
+				"down": { "uv": [ 11, 11, 11.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 11, 10.5, 11.5, 10 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 11.5, 10, 11, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 11, 10, 11.5, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 11.5, 10, 11, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 11, 10, 11.5, 11.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade25",
+			"from": [ 1, 14.65, 2.575 ],
+			"to": [ 1.675, 15.55, 2.8 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 12, 11, 12.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 10.5, 11, 11, 10.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 11, 10.5, 10.5, 12.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 10.5, 10.5, 11, 12.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 11, 10.5, 10.5, 12.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 10.5, 10.5, 11, 12.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade26",
+			"from": [ 1, 14.425, 2.8 ],
+			"to": [ 1.675, 15.1, 3.025 ],
+			"faces": {
+				"down": { "uv": [ 10, 12.5, 10.5, 13 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 10, 12, 10.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 10.5, 11.5, 10, 13 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 10, 11.5, 10.5, 13 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 10.5, 11.5, 10, 13 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 10, 11.5, 10.5, 13 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade27",
+			"from": [ 1.225, 13.75, 3.025 ],
+			"to": [ 1.45, 14.2, 3.25 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 14, 10, 14.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 9.5, 14, 10, 13.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 10, 13.5, 9.5, 14.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 9.5, 13.5, 10, 14.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 10, 13.5, 9.5, 14.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 9.5, 13.5, 10, 14.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade28",
+			"from": [ 1.225, 13.3, 2.8 ],
+			"to": [ 1.45, 13.75, 3.025 ],
+			"faces": {
+				"down": { "uv": [ 10, 15, 10.5, 15.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 10, 15, 10.5, 14.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 10.5, 14.5, 10, 15.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 10, 14.5, 10.5, 15.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 10.5, 14.5, 10, 15.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 10, 14.5, 10.5, 15.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade29",
+			"from": [ 1.225, 13.075, 2.575 ],
+			"to": [ 1.45, 13.3, 2.8 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 15.5, 11, 16 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 10.5, 16, 11, 15.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 11, 15.5, 10.5, 16 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 10.5, 15.5, 11, 16 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 11, 15.5, 10.5, 16 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 10.5, 15.5, 11, 16 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade30",
+			"from": [ 1, 14.2, 3.025 ],
+			"to": [ 1.675, 14.65, 3.25 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 13, 10, 13.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 9.5, 13, 10, 12.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 10, 12.5, 9.5, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 9.5, 12.5, 10, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 10, 12.5, 9.5, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 9.5, 12.5, 10, 13.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade31",
+			"from": [ 1.225, 14.2, 2.8 ],
+			"to": [ 1.45, 14.425, 3.025 ],
+			"faces": {
+				"down": { "uv": [ 10, 13, 10.5, 13.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 10, 13.5, 10.5, 13 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 10.5, 13, 10, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 10, 13, 10.5, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 10.5, 13, 10, 13.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 10, 13, 10.5, 13.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade32",
+			"from": [ 1.9281, 14.9312, 1.9 ],
+			"to": [ 2.1531, 15.1562, 2.35 ],
+			"rotation": { "origin": [ 1.928126, 15.15625, 1.9 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 7.5, 11.5, 8.5, 12 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 7.5, 12, 8.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 8.5, 11.5, 8, 12 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 7.5, 11.5, 8, 12 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 8.5, 11.5, 7.5, 12 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 7.5, 11.5, 8.5, 12 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade33",
+			"from": [ 1.9281, 15.6063, 1.9 ],
+			"to": [ 2.1531, 15.8313, 2.35 ],
+			"rotation": { "origin": [ 1.928126, 15.15625, 1.9 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 7.5, 10, 8.5, 10.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 7.5, 10.5, 8.5, 10 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 8.5, 10, 8, 10.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 7.5, 10, 8, 10.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 8.5, 10, 7.5, 10.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 7.5, 10, 8.5, 10.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade34",
+			"from": [ 1.9281, 15.1563, 1.675 ],
+			"to": [ 2.1531, 15.6063, 1.9 ],
+			"rotation": { "origin": [ 1.928126, 15.15625, 1.9 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 8.5, 11, 9, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 8.5, 11, 9, 10.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 9, 10.5, 8.5, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 8.5, 10.5, 9, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 9, 10.5, 8.5, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 8.5, 10.5, 9, 11.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "m67_explosive_grenade35",
+			"from": [ 1.9281, 15.1563, 2.35 ],
+			"to": [ 2.1531, 15.6063, 2.575 ],
+			"rotation": { "origin": [ 1.928126, 15.15625, 1.9 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 7, 11, 7.5, 11.5 ], "texture": "#m67_explosive_grenade", "rotation": 90 },
+				"up": { "uv": [ 7, 11, 7.5, 10.5 ], "texture": "#m67_explosive_grenade", "rotation": 270 },
+				"north": { "uv": [ 7.5, 10.5, 7, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"south": { "uv": [ 7, 10.5, 7.5, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"west": { "uv": [ 7.5, 10.5, 7, 11.5 ], "texture": "#m67_explosive_grenade" },
+				"east": { "uv": [ 7, 10.5, 7.5, 11.5 ], "texture": "#m67_explosive_grenade" }
+			}
+		},
+		{
+			"__comment": "booby_trap",
+			"from": [ -1, 0, -1 ],
+			"to": [ 1, 18, 1 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 1, 11 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 0, 1, 1, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ 0, 15, 1 ],
+			"to": [ 1, 16, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 1, 3.5, 8, 3 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 1, 3, 1.5, 3.5 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 8, 3, 7.5, 3.5 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 8, 3, 1, 3.5 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap6",
+			"from": [ 1, 15, 0 ],
+			"to": [ 15, 16, 1 ],
+			"faces": {
+				"down": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 1, 3.5, 8, 3 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 8, 3, 1, 3.5 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 1, 3, 1.5, 3.5 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 8, 3, 7.5, 3.5 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap6",
+			"from": [ 1, 15, 15 ],
+			"to": [ 15, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 1, 3.5, 8, 3 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 8, 3, 1, 3.5 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 1, 3, 1.5, 3.5 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 8, 3, 7.5, 3.5 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ 15, 15, 1 ],
+			"to": [ 16, 16, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 1, 3.5, 8, 3 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 1, 3, 1.5, 3.5 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 8, 3, 7.5, 3.5 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 1, 3, 8, 3.5 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 8, 3, 1, 3.5 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap",
+			"from": [ -1, 0, 15 ],
+			"to": [ 1, 18, 17 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 1, 11 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 0, 1, 1, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap",
+			"from": [ 15, 0, 15 ],
+			"to": [ 17, 18, 17 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 1, 11 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 0, 1, 1, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap",
+			"from": [ 15, 0, -1 ],
+			"to": [ 17, 18, 1 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 1, 11 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 0, 1, 1, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 0, 1, 1, 10 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 1, 1, 0, 10 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1, 14, -1.25 ],
+			"to": [ 1, 15, -1 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 11.5, 1, 12.5, 0.5 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 12.5, 0.5, 11.5, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 11.5, 0.5, 12, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0.5, 12, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1, 14, 1 ],
+			"to": [ 1, 15, 1.25 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 11.5, 1, 12.5, 0.5 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 12.5, 0.5, 11.5, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 11.5, 0.5, 12, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0.5, 12, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1.25, 14, -1 ],
+			"to": [ -1, 15, 1 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 11.5, 1, 12.5, 0.5 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 11.5, 0.5, 12, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 12.5, 0.5, 12, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0.5, 11.5, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ 1, 14, -1 ],
+			"to": [ 1.25, 15, 1 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 0.5, 12.5, 1 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 13.5, 1, 12.5, 0.5 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 13.5, 0.5, 14, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 12.5, 0.5, 12, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 13.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0.5, 13.5, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ 1, 12, -1 ],
+			"to": [ 1.5, 14, 1 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 0.5, 12.5, 1 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 13.5, 0.5, 12.5, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 13.5, 0, 14, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 12.5, 0, 12, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 13.5, 0, 12.5, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0, 13.5, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1, 12, 1 ],
+			"to": [ 1, 14, 1.5 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 0.5, 12.5, 1 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 11.5, 0.5, 12.5, 0 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 12.5, 0, 11.5, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 11.5, 0, 12.5, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 11.5, 0, 12, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 12.5, 0, 12, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1.5, 12, -1 ],
+			"to": [ -1, 14, 1 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 0.5, 13.5, 1 ], "texture": "#booby_trap", "rotation": 270 },
+				"up": { "uv": [ 12.5, 0.5, 13.5, 0 ], "texture": "#booby_trap", "rotation": 90 },
+				"north": { "uv": [ 12.5, 0, 13, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 13.5, 0, 13, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 12.5, 0, 13.5, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 13.5, 0, 12.5, 1 ], "texture": "#booby_trap" }
+			}
+		},
+		{
+			"__comment": "booby_trap4",
+			"from": [ -1, 12, -1.5 ],
+			"to": [ 1, 14, -1 ],
+			"faces": {
+				"down": { "uv": [ 12, 0.5, 13, 1 ], "texture": "#booby_trap" },
+				"up": { "uv": [ 12, 0.5, 13, 0 ], "texture": "#booby_trap" },
+				"north": { "uv": [ 13, 0, 12, 1 ], "texture": "#booby_trap" },
+				"south": { "uv": [ 12, 0, 13, 1 ], "texture": "#booby_trap" },
+				"west": { "uv": [ 12, 0, 12.5, 1 ], "texture": "#booby_trap" },
+				"east": { "uv": [ 13, 0, 12.5, 1 ], "texture": "#booby_trap" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, -2.5 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 2.5, -2.5 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 0, 30 ],
+			"scale":  [ 0.68, 0.68, 0.68 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 0, 30 ],
+			"scale":  [ 0.68, 0.68, 0.68 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 45, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ]
+		}
+	}
+}

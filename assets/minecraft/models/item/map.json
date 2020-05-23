@@ -1,0 +1,224 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"gps": "dayz/equipment/device/gps"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "gps",
+			"from": [ 2.5, 4, 7.5 ],
+			"to": [ 13.5, 12, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 5.75, 6.5, 6.25 ], "texture": "#gps" },
+				"up": { "uv": [ 1, 0.75, 6.5, 0.25 ], "texture": "#gps" },
+				"north": { "uv": [ 6.5, 1.25, 1, 5.25 ], "texture": "#gps" },
+				"south": { "uv": [ 1, 1.25, 6.5, 5.25 ], "texture": "#gps" },
+				"west": { "uv": [ 0.25, 1.25, 0.7499995, 5.25 ], "texture": "#gps" },
+				"east": { "uv": [ 7.25, 1.25, 6.75, 5.25 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps1",
+			"from": [ 3, 11.5, 8.5 ],
+			"to": [ 13, 12.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 1.25, 6.25, 1.5 ], "texture": "#gps" },
+				"up": { "uv": [ 1.25, 0.75, 6.25, 1 ], "texture": "#gps" },
+				"north": { "uv": [ 1.25, 1, 6.25, 1.5 ], "texture": "#gps" },
+				"south": { "uv": [ 1.25, 1, 6.25, 1.5 ], "texture": "#gps" },
+				"west": { "uv": [ 0.75, 1, 1, 1.5 ], "texture": "#gps" },
+				"east": { "uv": [ 6.5, 1, 6.75, 1.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps2",
+			"from": [ 3, 12, 7.5 ],
+			"to": [ 13, 12.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 0.75, 6.25, 0.25 ], "texture": "#gps" },
+				"up": { "uv": [ 1.25, 0.25, 6.25, 0.75 ], "texture": "#gps" },
+				"north": { "uv": [ 6.25, 0.5, 1.25, 0.25 ], "texture": "#gps" },
+				"south": { "uv": [ 1.25, 0.5, 6.25, 0.75 ], "texture": "#gps" },
+				"west": { "uv": [ 0.25, 1, 0.75, 1.25 ], "texture": "#gps" },
+				"east": { "uv": [ 6.75, 1, 7.25, 1.25 ], "texture": "#gps", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "gps3",
+			"from": [ 3, 3.5, 7.5 ],
+			"to": [ 13, 4, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 6.25, 6.25, 5.75 ], "texture": "#gps" },
+				"up": { "uv": [ 1.25, 5.75, 6.25, 6.25 ], "texture": "#gps" },
+				"north": { "uv": [ 6.25, 6, 1.25, 5.75 ], "texture": "#gps" },
+				"south": { "uv": [ 1.25, 6, 6.25, 6.25 ], "texture": "#gps" },
+				"west": { "uv": [ 1.25, 5.75, 1.5, 6.25 ], "texture": "#gps", "rotation": 270 },
+				"east": { "uv": [ 6.25, 5.75, 6, 6.25 ], "texture": "#gps", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "gps4",
+			"from": [ 3, 4, 7 ],
+			"to": [ 13, 12, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 5, 12.75, 5.25 ], "texture": "#gps" },
+				"up": { "uv": [ 7.75, 1.5, 12.75, 1.25 ], "texture": "#gps" },
+				"north": { "uv": [ 12.75, 1.25, 7.75, 5.25 ], "texture": "#gps" },
+				"south": { "uv": [ 7.75, 1.25, 12.75, 5.25 ], "texture": "#gps" },
+				"west": { "uv": [ 7.75, 1.25, 8, 5.25 ], "texture": "#gps" },
+				"east": { "uv": [ 12.75, 1.25, 12.5, 5.25 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps5",
+			"from": [ 3, 3.5, 8.5 ],
+			"to": [ 13, 5.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 5.5, 6.25, 5.75 ], "texture": "#gps" },
+				"up": { "uv": [ 1.25, 4.75, 6.25, 4.5 ], "texture": "#gps" },
+				"north": { "uv": [ 6.25, 4.5, 1.25, 5.5 ], "texture": "#gps" },
+				"south": { "uv": [ 1.25, 4.5, 6.25, 5.5 ], "texture": "#gps" },
+				"west": { "uv": [ 0.75, 4.5, 1, 5.5 ], "texture": "#gps" },
+				"east": { "uv": [ 6.75, 4.5, 6.5, 5.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps6",
+			"from": [ 2.5, 4, 8.5 ],
+			"to": [ 3, 12, 9 ],
+			"faces": {
+				"down": { "uv": [ 1, 5, 1.25, 5.25 ], "texture": "#gps" },
+				"up": { "uv": [ 1, 1.5, 1.25, 1.25 ], "texture": "#gps" },
+				"north": { "uv": [ 1.25, 1.25, 1, 5.25 ], "texture": "#gps" },
+				"south": { "uv": [ 1, 1.25, 1.25, 5.25 ], "texture": "#gps" },
+				"west": { "uv": [ 0.75, 1.25, 1, 5.25 ], "texture": "#gps" },
+				"east": { "uv": [ 1.25, 1.25, 1, 5.25 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps8",
+			"from": [ 13, 4, 8.5 ],
+			"to": [ 13.5, 12, 9 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 5, 6.5, 5.25 ], "texture": "#gps" },
+				"up": { "uv": [ 6.25, 1.5, 6.5, 1.25 ], "texture": "#gps" },
+				"north": { "uv": [ 6.5, 1.25, 6.25, 5.25 ], "texture": "#gps" },
+				"south": { "uv": [ 6.25, 1.25, 6.5, 5.25 ], "texture": "#gps" },
+				"west": { "uv": [ 6.25, 1.25, 6.5, 5.25 ], "texture": "#gps" },
+				"east": { "uv": [ 6.75, 1.25, 6.5, 5.25 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps9",
+			"from": [ 3, 5.5, 8.5 ],
+			"to": [ 3.5, 11.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 1.25, 4.25, 1.5, 4.5 ], "texture": "#gps" },
+				"up": { "uv": [ 1.25, 1.75, 1.5, 1.5 ], "texture": "#gps" },
+				"north": { "uv": [ 1.5, 1.5, 1.25, 4.5 ], "texture": "#gps" },
+				"south": { "uv": [ 1.25, 1.5, 1.5, 4.5 ], "texture": "#gps" },
+				"west": { "uv": [ 1.25, 1.5, 1.5, 4.5 ], "texture": "#gps" },
+				"east": { "uv": [ 1.5, 1.5, 1.25, 4.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps10",
+			"from": [ 12.5, 5.5, 8.5 ],
+			"to": [ 13, 11.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 6, 4.25, 6.25, 4.5 ], "texture": "#gps" },
+				"up": { "uv": [ 6, 1.75, 6.25, 1.5 ], "texture": "#gps" },
+				"north": { "uv": [ 6.25, 1.5, 6, 4.5 ], "texture": "#gps" },
+				"south": { "uv": [ 6, 1.5, 6.25, 4.5 ], "texture": "#gps" },
+				"west": { "uv": [ 6, 1.5, 6.25, 4.5 ], "texture": "#gps" },
+				"east": { "uv": [ 6.25, 1.5, 6, 4.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps11",
+			"from": [ 3.5, 5.5, 8.5 ],
+			"to": [ 4, 6, 9 ],
+			"faces": {
+				"down": { "uv": [ 1.5, 4.25, 1.75, 4.5 ], "texture": "#gps" },
+				"up": { "uv": [ 1.5, 4.5, 1.75, 4.25 ], "texture": "#gps" },
+				"north": { "uv": [ 1.75, 4.25, 1.5, 4.5 ], "texture": "#gps" },
+				"south": { "uv": [ 1.5, 4.25, 1.75, 4.5 ], "texture": "#gps" },
+				"west": { "uv": [ 1.5, 4.25, 1.75, 4.5 ], "texture": "#gps" },
+				"east": { "uv": [ 1.75, 4.25, 1.5, 4.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps12",
+			"from": [ 12, 11, 8.5 ],
+			"to": [ 12.5, 11.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 1.5, 6, 1.75 ], "texture": "#gps" },
+				"up": { "uv": [ 5.75, 1.75, 6, 1.5 ], "texture": "#gps" },
+				"north": { "uv": [ 6, 1.5, 5.75, 1.75 ], "texture": "#gps" },
+				"south": { "uv": [ 5.75, 1.5, 6, 1.75 ], "texture": "#gps" },
+				"west": { "uv": [ 5.75, 1.5, 6, 1.75 ], "texture": "#gps" },
+				"east": { "uv": [ 6, 1.5, 5.75, 1.75 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps13",
+			"from": [ 12, 5.5, 8.5 ],
+			"to": [ 12.5, 6, 9 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 4.25, 6, 4.5 ], "texture": "#gps" },
+				"up": { "uv": [ 5.75, 4.5, 6, 4.25 ], "texture": "#gps" },
+				"north": { "uv": [ 6, 4.25, 5.75, 4.5 ], "texture": "#gps" },
+				"south": { "uv": [ 5.75, 4.25, 6, 4.5 ], "texture": "#gps" },
+				"west": { "uv": [ 5.75, 4.25, 6, 4.5 ], "texture": "#gps" },
+				"east": { "uv": [ 6, 4.25, 5.75, 4.5 ], "texture": "#gps" }
+			}
+		},
+		{
+			"__comment": "gps14",
+			"from": [ 3.5, 11, 8.5 ],
+			"to": [ 4, 11.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 1.5, 1.5, 1.75, 1.75 ], "texture": "#gps" },
+				"up": { "uv": [ 1.5, 1.75, 1.75, 1.5 ], "texture": "#gps" },
+				"north": { "uv": [ 1.75, 1.5, 1.5, 1.75 ], "texture": "#gps" },
+				"south": { "uv": [ 1.5, 1.5, 1.75, 1.75 ], "texture": "#gps" },
+				"west": { "uv": [ 1.5, 1.5, 1.75, 1.75 ], "texture": "#gps" },
+				"east": { "uv": [ 1.75, 1.5, 1.5, 1.75 ], "texture": "#gps" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 30, -30, 0 ],
+			"translation":  [ -3, 3, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 30, -30, 0 ],
+			"translation":  [ -3, 3, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -30, 0, 0 ],
+			"translation":  [ -8.95, 3, 0 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ -30, 0, 0 ],
+			"translation":  [ -8.95, 3, 0 ]
+		},
+		"gui": {
+			"rotation":  [ 30, -45, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

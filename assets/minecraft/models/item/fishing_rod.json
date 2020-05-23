@@ -1,0 +1,419 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"fishing_rod": "dayz/equipment/tool/fishing_rod"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "fishing_rod",
+			"from": [ 7.5, 7, 1.5 ],
+			"to": [ 8.5, 8.5, 2 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 8.75, 5, 9 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 4.75, 8.5, 5, 8.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 4.75, 8.25, 5, 9 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 5, 8.25, 4.75, 9 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 4.75, 8.25, 5, 9 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 5, 8.25, 4.75, 9 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod1",
+			"from": [ 7, 8, 16 ],
+			"to": [ 9, 10, 24 ],
+			"faces": {
+				"down": { "uv": [ 12, 8.25, 16, 8.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 12, 7.75, 16, 7.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 12, 7.5, 12.25, 8.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 16, 7.5, 15.75, 8.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 12, 7.5, 16, 8.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 16, 7.5, 12, 8.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod2",
+			"from": [ 7.5, 7, -4.5 ],
+			"to": [ 8.5, 8.5, -4 ],
+			"faces": {
+				"down": { "uv": [ 1.75, 8.75, 2, 9 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 1.75, 8.5, 2, 8.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 1.75, 8.25, 2, 9 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 2, 8.25, 1.75, 9 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 1.75, 8.25, 2, 9 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 2, 8.25, 1.75, 9 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod3",
+			"from": [ 7.5, 7, -1.5 ],
+			"to": [ 8.5, 8.5, -1 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 8.75, 3.5, 9 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 3.25, 8.5, 3.5, 8.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 3.25, 8.25, 3.5, 9 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 3.5, 8.25, 3.25, 9 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 3.25, 8.25, 3.5, 9 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 3.5, 8.25, 3.25, 9 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod4",
+			"from": [ 7.5, 8, 9 ],
+			"to": [ 8.5, 8.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 8.25, 8.75, 8.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 8.5, 8.5, 8.75, 8.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 8.5, 8.25, 8.75, 8.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 8.75, 8.25, 8.5, 8.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 8.5, 8.25, 8.75, 8.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 8.75, 8.25, 8.5, 8.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod5",
+			"from": [ 7.5, 8.5, -8 ],
+			"to": [ 8.5, 9.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 0, 8, 8.5, 8.25 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 0, 8, 8.5, 7.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 0, 7.75, 0.25, 8.25 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 8.5, 7.75, 8.25, 8.25 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 0, 7.75, 8.5, 8.25 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 8.5, 7.75, 0, 8.25 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod6",
+			"from": [ 7, 8.5, 9 ],
+			"to": [ 9, 9.5, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 8, 8.75, 8.25 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 8.5, 8, 8.75, 7.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 8.5, 7.75, 8.75, 8.25 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 8.75, 7.75, 8.5, 8.25 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 8.5, 7.75, 8.75, 8.25 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 8.75, 7.75, 8.5, 8.25 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod7",
+			"from": [ 7.5, 9.5, 9 ],
+			"to": [ 8.5, 10, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 7.5, 8.75, 7.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 8.5, 7.75, 8.75, 7.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 8.5, 7.5, 8.75, 7.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 8.75, 7.5, 8.5, 7.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 8.5, 7.5, 8.75, 7.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 8.75, 7.5, 8.5, 7.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod8",
+			"from": [ 6.5, 8, 15 ],
+			"to": [ 9.5, 10, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 8.25, 12, 8.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.5, 7.75, 12, 7.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.5, 7.5, 11.75, 8.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 7.5, 11.75, 8.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.5, 7.5, 12, 8.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 7.5, 11.5, 8.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod9",
+			"from": [ 7, 8, 9.5 ],
+			"to": [ 9, 10, 15 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 8.25, 11.5, 8.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 8.75, 7.75, 11.5, 7.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 8.75, 7.5, 9, 8.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11.5, 7.5, 11.25, 8.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 8.75, 7.5, 11.5, 8.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11.5, 7.5, 8.75, 8.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod10",
+			"from": [ 7, 10, 15 ],
+			"to": [ 9, 10.5, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 7.25, 12, 7.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.5, 7.5, 12, 7.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.5, 7.25, 11.75, 7.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 7.25, 11.75, 7.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.5, 7.25, 12, 7.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 7.25, 11.5, 7.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod11",
+			"from": [ 7, 7.5, 15 ],
+			"to": [ 9, 8, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 8.5, 12, 8.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.5, 8.75, 12, 8.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.5, 8.5, 11.75, 8.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 8.5, 11.75, 8.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.5, 8.5, 12, 8.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 8.5, 11.5, 8.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod13",
+			"from": [ 7.5, 7.5, 12 ],
+			"to": [ 8.5, 8, 14.5 ],
+			"faces": {
+				"down": { "uv": [ 10, 8.5, 11.25, 8.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10, 8.75, 11.25, 8.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10, 8.5, 10.25, 8.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11.25, 8.5, 11, 8.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10, 8.5, 11.25, 8.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11.25, 8.5, 10, 8.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod14",
+			"from": [ 7.5, 6, 13.5 ],
+			"to": [ 8.5, 7.5, 14 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 9.25, 11, 9.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10.75, 9, 11, 8.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10.75, 8.75, 11, 9.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11, 8.75, 10.75, 9.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10.75, 8.75, 11, 9.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11, 8.75, 10.75, 9.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod15",
+			"from": [ 7.5, 2.5, 14.5 ],
+			"to": [ 8.5, 3.5, 15 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 11, 11.5, 11.25 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.25, 11, 11.5, 10.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.25, 10.75, 11.5, 11.25 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11.5, 10.75, 11.25, 11.25 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.25, 10.75, 11.5, 11.25 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11.5, 10.75, 11.25, 11.25 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod16",
+			"from": [ 7, 4, 15.5 ],
+			"to": [ 9, 5, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 10.25, 12, 10.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.75, 10.25, 12, 10 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.75, 10, 12, 10.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 10, 11.75, 10.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.75, 10, 12, 10.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 10, 11.75, 10.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod17",
+			"from": [ 7, 3.5, 13.5 ],
+			"to": [ 9, 5.5, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 10.5, 11.75, 10.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10.75, 10, 11.75, 9.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10.75, 9.75, 11, 10.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11.75, 9.75, 11.5, 10.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10.75, 9.75, 11.75, 10.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11.75, 9.75, 10.75, 10.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod18",
+			"from": [ 7.5, 4, 16 ],
+			"to": [ 8.5, 5, 17 ],
+			"faces": {
+				"down": { "uv": [ 12, 10.25, 12.5, 10.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 12, 10.25, 12.5, 10 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 12, 10, 12.25, 10.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12.5, 10, 12.25, 10.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 12, 10, 12.5, 10.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12.5, 10, 12, 10.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod19",
+			"from": [ 7.5, 5, 15.5 ],
+			"to": [ 8.5, 5.5, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 9.75, 12, 10 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.75, 10, 12, 9.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.75, 9.75, 12, 10 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 9.75, 11.75, 10 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.75, 9.75, 12, 10 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 9.75, 11.75, 10 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod20",
+			"from": [ 7.5, 5.5, 13.5 ],
+			"to": [ 8.5, 6, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 9.5, 11.75, 9.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10.75, 9.75, 11.75, 9.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10.75, 9.5, 11, 9.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 11.75, 9.5, 11.5, 9.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10.75, 9.5, 11.75, 9.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 11.75, 9.5, 10.75, 9.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod21",
+			"from": [ 7, 4, 10.5 ],
+			"to": [ 9, 4.5, 12 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.25, 10, 10.5 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 9.25, 10.5, 10, 10.25 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 9.25, 10.25, 9.5, 10.5 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10, 10.25, 9.75, 10.5 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 9.25, 10.25, 10, 10.5 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10, 10.25, 9.25, 10.5 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod22",
+			"from": [ 7.5, 3, 12 ],
+			"to": [ 8.5, 3.5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 10, 10.75, 10.75, 11 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10, 11, 10.75, 10.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10, 10.75, 10.25, 11 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10.75, 10.75, 10.5, 11 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10, 10.75, 10.75, 11 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10.75, 10.75, 10, 11 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod23",
+			"from": [ 7.5, 5, 12 ],
+			"to": [ 8.5, 5.5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 10, 9.75, 10.75, 10 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10, 10, 10.75, 9.75 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10, 9.75, 10.25, 10 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10.75, 9.75, 10.5, 10 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10, 9.75, 10.75, 10 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10.75, 9.75, 10, 10 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod24",
+			"from": [ 7.5, 2.5, 11 ],
+			"to": [ 8.5, 3, 12 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 11, 10, 11.25 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 9.5, 11.25, 10, 11 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 9.5, 11, 9.75, 11.25 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10, 11, 9.75, 11.25 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 9.5, 11, 10, 11.25 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10, 11, 9.5, 11.25 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod25",
+			"from": [ 7.5, 5.5, 11 ],
+			"to": [ 8.5, 6, 12 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 9.5, 10, 9.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 9.5, 9.75, 10, 9.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 9.5, 9.5, 9.75, 9.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10, 9.5, 9.75, 9.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 9.5, 9.5, 10, 9.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10, 9.5, 9.5, 9.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod26",
+			"from": [ 7.5, 3.5, 15.5 ],
+			"to": [ 8.5, 4, 16 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 10.5, 12, 10.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 11.75, 10.75, 12, 10.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 11.75, 10.5, 12, 10.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 12, 10.5, 11.75, 10.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 11.75, 10.5, 12, 10.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 12, 10.5, 11.75, 10.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod27",
+			"from": [ 7.5, 3.5, 10.5 ],
+			"to": [ 8.5, 4, 12 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.5, 10, 10.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 9.25, 10.75, 10, 10.5 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 9.25, 10.5, 9.5, 10.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10, 10.5, 9.75, 10.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 9.25, 10.5, 10, 10.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10, 10.5, 9.25, 10.75 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod28",
+			"from": [ 7.5, 4.5, 10.5 ],
+			"to": [ 8.5, 5, 12 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10, 10, 10.25 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 9.25, 10.25, 10, 10 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 9.25, 10, 9.5, 10.25 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10, 10, 9.75, 10.25 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 9.25, 10, 10, 10.25 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10, 10, 9.25, 10.25 ], "texture": "#fishing_rod" }
+			}
+		},
+		{
+			"__comment": "fishing_rod29",
+			"from": [ 7, 3.5, 12 ],
+			"to": [ 9, 5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 10, 10.5, 10.75, 10.75 ], "texture": "#fishing_rod", "rotation": 270 },
+				"up": { "uv": [ 10, 10.25, 10.75, 10 ], "texture": "#fishing_rod", "rotation": 90 },
+				"north": { "uv": [ 10, 10, 10.25, 10.75 ], "texture": "#fishing_rod" },
+				"south": { "uv": [ 10.75, 10, 10.5, 10.75 ], "texture": "#fishing_rod" },
+				"west": { "uv": [ 10, 10, 10.75, 10.75 ], "texture": "#fishing_rod" },
+				"east": { "uv": [ 10.75, 10, 10, 10.75 ], "texture": "#fishing_rod" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 6.5, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 125, 90 ],
+			"translation":  [ -6, -6, 9 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 45, -60, -30 ],
+			"translation":  [ -3, 0, -10 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ -60, 135, 90 ],
+			"scale":  [ 0.625, 0.625, 0.625 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ 0, 0, 90 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

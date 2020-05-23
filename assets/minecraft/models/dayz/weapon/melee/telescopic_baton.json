@@ -1,0 +1,133 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"telescopic_baton": "dayz/weapon/melee/telescopic_baton"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "telescopic_baton",
+			"from": [ 7, -8, 6.5 ],
+			"to": [ 9, 1, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 15.75, 8.5, 16 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.5, 11.75, 8.5, 11.5 ], "texture": "#telescopic_baton" },
+				"north": { "uv": [ 8.5, 11.5, 7.5, 16 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 7.5, 11.5, 8.5, 16 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 7.5, 11.5, 7.75, 16 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.5, 11.5, 8.25, 16 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton1",
+			"from": [ 6.5, -8, 7 ],
+			"to": [ 7, 1, 9 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 15.75, 7.5, 16 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.5, 11.5, 8.5, 11.75 ], "texture": "#telescopic_baton", "rotation": 90 },
+				"north": { "uv": [ 7.5, 11.5, 7.25, 16 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 7.25, 11.5, 7.5, 16 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 7.5, 11.5, 8.5, 16 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.5, 11.5, 7.5, 16 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton2",
+			"from": [ 9, -8, 7 ],
+			"to": [ 9.5, 1, 9 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 15.75, 8.75, 16 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.5, 11.75, 8.5, 11.5 ], "texture": "#telescopic_baton", "rotation": 90 },
+				"north": { "uv": [ 8.75, 11.5, 8.5, 16 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 8.5, 11.5, 8.75, 16 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 8.5, 11.5, 8.75, 16 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.5, 11.5, 7.5, 16 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton3",
+			"from": [ 7.5, 1, 7 ],
+			"to": [ 8.5, 7, 9 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 11.25, 8.25, 11.5 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.75, 8.75, 8.25, 8.5 ], "texture": "#telescopic_baton" },
+				"north": { "uv": [ 8.25, 8.5, 7.75, 11.5 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 7.75, 8.5, 8.25, 11.5 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 7.75, 8.5, 8, 11.5 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.25, 8.5, 8, 11.5 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton4",
+			"from": [ 7, 1, 7.5 ],
+			"to": [ 7.5, 7, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 11.25, 7.75, 11.5 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.5, 8.75, 7.75, 8.5 ], "texture": "#telescopic_baton" },
+				"north": { "uv": [ 7.75, 8.5, 7.5, 11.5 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 7.5, 8.5, 7.75, 11.5 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 7.75, 8.5, 8.25, 11.5 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 7.75, 8.5, 7.5, 11.5 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton5",
+			"from": [ 8.5, 1, 7.5 ],
+			"to": [ 9, 7, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 11.25, 8.5, 11.5 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 8.25, 8.75, 8.5, 8.5 ], "texture": "#telescopic_baton" },
+				"north": { "uv": [ 8.5, 8.5, 8.25, 11.5 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 8.25, 8.5, 8.5, 11.5 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 8.25, 8.5, 8.5, 11.5 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.25, 8.5, 7.75, 11.5 ], "texture": "#telescopic_baton" }
+			}
+		},
+		{
+			"__comment": "telescopic_baton6",
+			"from": [ 7.5, 7, 7.5 ],
+			"to": [ 8.5, 24, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 8.25, 8.25, 8.5 ], "texture": "#telescopic_baton" },
+				"up": { "uv": [ 7.75, 0.25, 8.25, 0 ], "texture": "#telescopic_baton" },
+				"north": { "uv": [ 8.25, 0, 7.75, 8.5 ], "texture": "#telescopic_baton" },
+				"south": { "uv": [ 7.75, 0, 8.25, 8.5 ], "texture": "#telescopic_baton" },
+				"west": { "uv": [ 7.75, 0, 8, 8.5 ], "texture": "#telescopic_baton" },
+				"east": { "uv": [ 8.25, 0, 8, 8.5 ], "texture": "#telescopic_baton" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 7.25, 2 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, -180, 45 ],
+			"translation":  [ -6, -6, 9 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -90, -75, -90 ],
+			"translation":  [ 0, 9, -3 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 0, -45 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ 90, 0, 90 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

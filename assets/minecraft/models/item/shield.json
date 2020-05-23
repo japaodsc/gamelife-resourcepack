@@ -1,0 +1,493 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"g52-tactical_shield": "dayz/equipment/equipment/g52-tactical_shield"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "g52-tactical_shield",
+			"from": [ 4, 0.5, 8 ],
+			"to": [ 12, 11, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4, 15, 12, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4, 5.5, 12, 5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12, 5, 4, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4, 5, 12, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4, 5, 4.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12, 5, 11.5, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield1",
+			"from": [ 4.5, 11.5, 8 ],
+			"to": [ 5.5, 13.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 4, 5.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4.5, 3, 5.5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 5.5, 2.5, 4.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4.5, 2.5, 5.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4.5, 2.5, 5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 5.5, 2.5, 5, 4.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield2",
+			"from": [ 10.5, 11.5, 8 ],
+			"to": [ 11.5, 13.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 4, 11.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 10.5, 3, 11.5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11.5, 2.5, 10.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 10.5, 2.5, 11.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 10.5, 2.5, 11, 4.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11.5, 2.5, 11, 4.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield3",
+			"from": [ 4.5, 13.5, 8 ],
+			"to": [ 11.5, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 2, 11.5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4.5, 1.5, 11.5, 1 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11.5, 1, 4.5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4.5, 1, 11.5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4.5, 1, 5, 2.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11.5, 1, 11, 2.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield4",
+			"from": [ 5, 15, 8 ],
+			"to": [ 11, 15.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5, 0.5, 11, 1 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 5, 1, 11, 0.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11, 0.5, 5, 1 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 5, 0.5, 11, 1 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 5, 0.5, 5.5, 1 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11, 0.5, 10.5, 1 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield5",
+			"from": [ 5, 15.5, 7.5 ],
+			"to": [ 11, 16, 8 ],
+			"faces": {
+				"down": { "uv": [ 5, 0, 11, 0.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 5, 0.5, 11, 0 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11, 0, 5, 0.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 5, 0, 11, 0.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 5, 0, 5.5, 0.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11, 0, 10.5, 0.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield6",
+			"from": [ 3.5, 0.5, 7 ],
+			"to": [ 4, 10.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 15, 4, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3.5, 6, 4, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 4, 5.5, 3.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3.5, 5.5, 4, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3.5, 5.5, 4, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 4, 5.5, 3.5, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield7",
+			"from": [ 3, 0.5, 6.5 ],
+			"to": [ 3.5, 10.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3, 15, 3.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3, 6, 3.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3.5, 5.5, 3, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3, 5.5, 3.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3, 5.5, 3.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3.5, 5.5, 3, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield8",
+			"from": [ 2.5, 1, 6 ],
+			"to": [ 3, 10, 7 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 14.5, 3, 15 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 2.5, 6.5, 3, 6 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3, 6, 2.5, 15 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 2.5, 6, 3, 15 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 2.5, 6, 3, 15 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3, 6, 2.5, 15 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield9",
+			"from": [ 2, 1, 5.5 ],
+			"to": [ 2.5, 9.5, 6.5 ],
+			"faces": {
+				"down": { "uv": [ 2, 14.5, 2.5, 15 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 2, 7, 2.5, 6.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 2.5, 6.5, 2, 15 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 2, 6.5, 2.5, 15 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 2, 6.5, 2.5, 15 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 2.5, 6.5, 2, 15 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield10",
+			"from": [ 12.5, 0.5, 6.5 ],
+			"to": [ 13, 10.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 15, 13, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12.5, 6, 13, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13, 5.5, 12.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12.5, 5.5, 13, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12.5, 5.5, 13, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13, 5.5, 12.5, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield11",
+			"from": [ 12, 0.5, 7 ],
+			"to": [ 12.5, 10.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 12, 15, 12.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12, 6, 12.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12.5, 5.5, 12, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12, 5.5, 12.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12, 5.5, 12.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12.5, 5.5, 12, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield12",
+			"from": [ 13, 1, 6 ],
+			"to": [ 13.5, 10, 7 ],
+			"faces": {
+				"down": { "uv": [ 13, 14.5, 13.5, 15 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 13, 6.5, 13.5, 6 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13.5, 6, 13, 15 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 13, 6, 13.5, 15 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 13, 6, 13.5, 15 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13.5, 6, 13, 15 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield13",
+			"from": [ 13.5, 1, 5.5 ],
+			"to": [ 14, 9.5, 6.5 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 14.5, 14, 15 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 13.5, 7, 14, 6.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 14, 6.5, 13.5, 15 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 13.5, 6.5, 14, 15 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 13.5, 6.5, 14, 15 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 14, 6.5, 13.5, 15 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield14",
+			"from": [ 4, 0, 7.5 ],
+			"to": [ 4.5, 15, 8 ],
+			"faces": {
+				"down": { "uv": [ 4, 15.5, 4.5, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4, 1.5, 4.5, 1 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 4.5, 1, 4, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4, 1, 4.5, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4, 1, 4.5, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 4.5, 1, 4, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield15",
+			"from": [ 11, 15, 7.5 ],
+			"to": [ 11.5, 15.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11, 0.5, 11.5, 1 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 11, 1, 11.5, 0.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11.5, 0.5, 11, 1 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 11, 0.5, 11.5, 1 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 11, 0.5, 11.5, 1 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11.5, 0.5, 11, 1 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield16",
+			"from": [ 11.5, 0, 7.5 ],
+			"to": [ 12, 15, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 15.5, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 11.5, 1.5, 12, 1 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12, 1, 11.5, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 11.5, 1, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 11.5, 1, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12, 1, 11.5, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield17",
+			"from": [ 4.5, 15, 7.5 ],
+			"to": [ 5, 15.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 0.5, 5, 1 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4.5, 1, 5, 0.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 5, 0.5, 4.5, 1 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4.5, 0.5, 5, 1 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4.5, 0.5, 5, 1 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 5, 0.5, 4.5, 1 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield18",
+			"from": [ 4.5, 11, 8 ],
+			"to": [ 11.5, 11.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 4.5, 11.5, 5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4.5, 5, 11.5, 4.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 11.5, 4.5, 4.5, 5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4.5, 4.5, 11.5, 5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4.5, 4.5, 5, 5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 11.5, 4.5, 11, 5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield19",
+			"from": [ 4, 0, 7.5 ],
+			"to": [ 12, 0.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 4, 15.5, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 4, 16, 12, 15.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12, 15.5, 4, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 4, 15.5, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 4, 15.5, 4.5, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12, 15.5, 11.5, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield20",
+			"from": [ 3.5, 0, 7 ],
+			"to": [ 4, 0.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 15.5, 4, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3.5, 16, 4, 15.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 4, 15.5, 3.5, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3.5, 15.5, 4, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3.5, 15.5, 4, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 4, 15.5, 3.5, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield21",
+			"from": [ 12, 0, 7 ],
+			"to": [ 12.5, 0.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 12, 15.5, 12.5, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12, 16, 12.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12.5, 15.5, 12, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12, 15.5, 12.5, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12, 15.5, 12.5, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12.5, 15.5, 12, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield22",
+			"from": [ 12.5, 0, 6.5 ],
+			"to": [ 13, 0.5, 7 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 15.5, 13, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12.5, 16, 13, 15.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13, 15.5, 12.5, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12.5, 15.5, 13, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12.5, 15.5, 13, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13, 15.5, 12.5, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 3, 0, 6.5 ],
+			"to": [ 3.5, 0.5, 7 ],
+			"faces": {
+				"down": { "uv": [ 3, 15.5, 3.5, 16 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3, 16, 3.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3.5, 15.5, 3, 16 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3, 15.5, 3.5, 16 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3, 15.5, 3.5, 16 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3.5, 15.5, 3, 16 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield24",
+			"from": [ 2.5, 0.5, 6 ],
+			"to": [ 3, 1, 7 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 15, 3, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 2.5, 15.5, 3, 15 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3, 15, 2.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 2.5, 15, 3, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 2.5, 15, 3, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3, 15, 2.5, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield25",
+			"from": [ 13, 0.5, 6 ],
+			"to": [ 13.5, 1, 7 ],
+			"faces": {
+				"down": { "uv": [ 13, 15, 13.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 13, 15.5, 13.5, 15 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13.5, 15, 13, 15.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 13, 15, 13.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 13, 15, 13.5, 15.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13.5, 15, 13, 15.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 3, 10.5, 6.5 ],
+			"to": [ 3.5, 11, 7 ],
+			"faces": {
+				"down": { "uv": [ 3, 5, 3.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3, 5.5, 3.5, 5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3.5, 5, 3, 5.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3, 5, 3.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3, 5, 3.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3.5, 5, 3, 5.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 2.5, 10, 6 ],
+			"to": [ 3, 10.5, 6.5 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 5.5, 3, 6 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 2.5, 6, 3, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 3, 5.5, 2.5, 6 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 2.5, 5.5, 3, 6 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 2.5, 5.5, 3, 6 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 3, 5.5, 2.5, 6 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 2, 9.5, 5.5 ],
+			"to": [ 2.5, 10, 6 ],
+			"faces": {
+				"down": { "uv": [ 2, 6, 2.5, 6.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 2, 6.5, 2.5, 6 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 2.5, 6, 2, 6.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 2, 6, 2.5, 6.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 2, 6, 2.5, 6.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 2.5, 6, 2, 6.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 12.5, 10.5, 6.5 ],
+			"to": [ 13, 11, 7 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 5, 13, 5.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12.5, 5.5, 13, 5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13, 5, 12.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12.5, 5, 13, 5.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12.5, 5, 13, 5.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13, 5, 12.5, 5.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 13, 10, 6 ],
+			"to": [ 13.5, 10.5, 6.5 ],
+			"faces": {
+				"down": { "uv": [ 13, 5.5, 13.5, 6 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 13, 6, 13.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 13.5, 5.5, 13, 6 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 13, 5.5, 13.5, 6 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 13, 5.5, 13.5, 6 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 13.5, 5.5, 13, 6 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 13.5, 9.5, 5.5 ],
+			"to": [ 14, 10, 6 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 6, 14, 6.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 13.5, 6.5, 14, 6 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 14, 6, 13.5, 6.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 13.5, 6, 14, 6.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 13.5, 6, 14, 6.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 14, 6, 13.5, 6.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 3.5, 10.5, 7 ],
+			"to": [ 4, 11, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 5, 4, 5.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 3.5, 5.5, 4, 5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 4, 5, 3.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 3.5, 5, 4, 5.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 3.5, 5, 4, 5.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 4, 5, 3.5, 5.5 ], "texture": "#g52-tactical_shield" }
+			}
+		},
+		{
+			"__comment": "g52-tactical_shield23",
+			"from": [ 12, 10.5, 7 ],
+			"to": [ 12.5, 11, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 12, 5, 12.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"up": { "uv": [ 12, 5.5, 12.5, 5 ], "texture": "#g52-tactical_shield" },
+				"north": { "uv": [ 12.5, 5, 12, 5.5 ], "texture": "#g52-tactical_shield" },
+				"south": { "uv": [ 12, 5, 12.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"west": { "uv": [ 12, 5, 12.5, 5.5 ], "texture": "#g52-tactical_shield" },
+				"east": { "uv": [ 12.5, 5, 12, 5.5 ], "texture": "#g52-tactical_shield" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -45, 90, 90 ],
+			"translation":  [ 2.75, -2, 2.75 ],
+			"scale":  [ 1.75, 1.75, 1.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -45, 90, 90 ],
+			"translation":  [ 2.75, -2, 2.75 ],
+			"scale":  [ 1.75, 1.75, 1.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, -30 ],
+			"translation":  [ 0, 3, 3 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 90, -30 ],
+			"translation":  [ 0, 3, 3 ]
+		},
+		"gui": {
+			"rotation":  [ 30, -45, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 3.5, 3.5, 3.5 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/shield_blocking"	
+		}
+	]
+}

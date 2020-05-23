@@ -1,0 +1,315 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"ice_axe": "dayz/weapon/melee/ice_axe"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "ice_axe",
+			"from": [ 7.5, 0, 7.5 ],
+			"to": [ 8.5, 0.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 15.5, 8.5, 16 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 7.5, 16, 8.5, 15.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 8.5, 15.5, 7.5, 16 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 7.5, 15.5, 8.5, 16 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 7.5, 15.5, 8, 16 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 8.5, 15.5, 8, 16 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe1",
+			"from": [ 7, 0.5, 7.5 ],
+			"to": [ 7.5, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7, 15, 7.5, 15.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 7, 2.5, 7.5, 2 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 7.5, 2, 7, 15.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 7, 2, 7.5, 15.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 7, 2, 7.5, 15.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 7.5, 2, 7, 15.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe2",
+			"from": [ 6.5, 14, 7.5 ],
+			"to": [ 7.5, 14.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 1.5, 7.5, 2 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 6.5, 2, 7.5, 1.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 7.5, 1.5, 6.5, 2 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 6.5, 1.5, 7.5, 2 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 6.5, 1.5, 7, 2 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 7.5, 1.5, 7, 2 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe3",
+			"from": [ 8, 14, 7.5 ],
+			"to": [ 9, 14.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8, 1.5, 9, 2 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 8, 2, 9, 1.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 9, 1.5, 8, 2 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 8, 1.5, 9, 2 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 8, 1.5, 8.5, 2 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 9, 1.5, 8.5, 2 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe4",
+			"from": [ 8.5, 14.5, 7.5 ],
+			"to": [ 9.5, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 1, 9.5, 1.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 8.5, 1.5, 9.5, 1 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 9.5, 1, 8.5, 1.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 8.5, 1, 9.5, 1.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 8.5, 1, 9, 1.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 9.5, 1, 9, 1.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe5",
+			"from": [ 6, 14.5, 7.5 ],
+			"to": [ 7, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 6, 1, 7, 1.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 6, 1.5, 7, 1 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 7, 1, 6, 1.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 6, 1, 7, 1.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 6, 1, 6.5, 1.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 7, 1, 6.5, 1.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe6",
+			"from": [ 5.5, 15, 7.5 ],
+			"to": [ 10.5, 16, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 0.5, 10.5, 1 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 5.5, 0.5, 10.5, 0 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 10.5, 0, 5.5, 1 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 5.5, 0, 10.5, 1 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 5.5, 0, 6, 1 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 10.5, 0, 10, 1 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe7",
+			"from": [ 10.5, 14.5, 7.5 ],
+			"to": [ 11, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 1, 11, 1.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 10.5, 1.5, 11, 1 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 11, 1, 10.5, 1.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 10.5, 1, 11, 1.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 10.5, 1, 11, 1.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 11, 1, 10.5, 1.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe8",
+			"from": [ 10.5, 15, 7.5 ],
+			"to": [ 11.5, 15.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 0.5, 11.5, 1 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 10.5, 1, 11.5, 0.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 11.5, 0.5, 10.5, 1 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 10.5, 0.5, 11.5, 1 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 10.5, 0.5, 11, 1 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 11.5, 0.5, 11, 1 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe9",
+			"from": [ 7.5, 0.5, 7 ],
+			"to": [ 8, 13.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 15, 8, 15.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 7.5, 3, 8, 2.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 8, 2.5, 7.5, 15.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 7.5, 2.5, 8, 15.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 7.5, 2.5, 8, 15.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 8, 2.5, 7.5, 15.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe10",
+			"from": [ 7.5, 13.5, 7.5 ],
+			"to": [ 8, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 2, 8, 2.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 7.5, 2.5, 8, 2 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 8, 2, 7.5, 2.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 7.5, 2, 8, 2.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 7.5, 2, 8, 2.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 8, 2, 7.5, 2.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe11",
+			"from": [ 8, 0.5, 7 ],
+			"to": [ 8.5, 14, 9 ],
+			"faces": {
+				"down": { "uv": [ 8, 15, 8.5, 15.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 8, 2.5, 8.5, 2 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 8.5, 2, 8, 15.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 8, 2, 8.5, 15.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 8, 2, 8.5, 15.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 8.5, 2, 8, 15.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe12",
+			"from": [ 4, 15, 7.5 ],
+			"to": [ 5.5, 15.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4, 0.5, 5.5, 1 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 4, 1, 5.5, 0.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 5.5, 0.5, 4, 1 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 4, 0.5, 5.5, 1 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 4, 0.5, 4.5, 1 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 5.5, 0.5, 5, 1 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe13",
+			"from": [ 4.5, 14.5, 7.5 ],
+			"to": [ 6, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 1, 6, 1.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 4.5, 1.5, 6, 1 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 6, 1, 4.5, 1.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 4.5, 1, 6, 1.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 4.5, 1, 5, 1.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 6, 1, 5.5, 1.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe14",
+			"from": [ 3, 14, 7.5 ],
+			"to": [ 4.5, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3, 1.5, 4.5, 2 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 3, 1.5, 4.5, 1 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 4.5, 1, 3, 2 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 3, 1, 4.5, 2 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 3, 1, 3.5, 2 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 4.5, 1, 4, 2 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe15",
+			"from": [ 2, 14, 7.5 ],
+			"to": [ 3, 14.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 2, 1.5, 3, 2 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 2, 2, 3, 1.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 3, 1.5, 2, 2 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 2, 1.5, 3, 2 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 2, 1.5, 2.5, 2 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 3, 1.5, 2.5, 2 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe16",
+			"from": [ 2, 13.5, 7.5 ],
+			"to": [ 3.5, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 2, 2, 3.5, 2.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 2, 2.5, 3.5, 2 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 3.5, 2, 2, 2.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 2, 2, 3.5, 2.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 2, 2, 2.5, 2.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 3.5, 2, 3, 2.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe17",
+			"from": [ 1.5, 13, 7.5 ],
+			"to": [ 2, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1.5, 2.5, 2, 3 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 1.5, 2.5, 2, 2 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 2, 2, 1.5, 3 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 1.5, 2, 2, 3 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 1.5, 2, 2, 3 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 2, 2, 1.5, 3 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe18",
+			"from": [ 2, 13, 7.5 ],
+			"to": [ 2.5, 13.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 2, 2.5, 2.5, 3 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 2, 3, 2.5, 2.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 2.5, 2.5, 2, 3 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 2, 2.5, 2.5, 3 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 2, 2.5, 2.5, 3 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 2.5, 2.5, 2, 3 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe19",
+			"from": [ 1, 12.5, 7.5 ],
+			"to": [ 1.5, 13.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 3, 1.5, 3.5 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 1, 3, 1.5, 2.5 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 1.5, 2.5, 1, 3.5 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 1, 2.5, 1.5, 3.5 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 1, 2.5, 1.5, 3.5 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 1.5, 2.5, 1, 3.5 ], "texture": "#ice_axe" }
+			}
+		},
+		{
+			"__comment": "ice_axe20",
+			"from": [ 0.5, 12, 7.5 ],
+			"to": [ 1, 13, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 3.5, 1, 4 ], "texture": "#ice_axe" },
+				"up": { "uv": [ 0.5, 3.5, 1, 3 ], "texture": "#ice_axe" },
+				"north": { "uv": [ 1, 3, 0.5, 4 ], "texture": "#ice_axe" },
+				"south": { "uv": [ 0.5, 3, 1, 4 ], "texture": "#ice_axe" },
+				"west": { "uv": [ 0.5, 3, 1, 4 ], "texture": "#ice_axe" },
+				"east": { "uv": [ 1, 3, 0.5, 4 ], "texture": "#ice_axe" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 1.25, 1.75 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -145, 90, 0 ],
+			"translation":  [ -10.5, -1.5, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 15 ],
+			"translation":  [ 0, 0, -6 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 0, -45 ],
+			"translation":  [ -1, -1, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 90 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"__comment": "Gamelife-KingCiC",
+	"textures": {
+		"particle": "#texture",
+		"texture": "blocks/e_texture"
+	},
+	"elements": [
+	]
+}

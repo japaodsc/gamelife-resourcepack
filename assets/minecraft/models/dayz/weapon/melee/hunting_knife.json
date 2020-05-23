@@ -1,0 +1,210 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"hunting_knife": "dayz/weapon/melee/hunting_knife"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "hunting_knife",
+			"from": [ 7, 0, 7.75 ],
+			"to": [ 8.5, 0.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7, 15.5, 8.5, 16 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7, 16, 8.5, 15.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 8.5, 15.5, 7, 16 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7, 15.5, 8.5, 16 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7, 15.5, 7.5, 16 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 8.5, 15.5, 8, 16 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife1",
+			"from": [ 6.5, 0.5, 7.75 ],
+			"to": [ 7, 1.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 15, 7, 15.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 6.5, 15, 7, 14.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 7, 14.5, 6.5, 15.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 6.5, 14.5, 7, 15.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 6.5, 14.5, 7, 15.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 7, 14.5, 6.5, 15.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife2",
+			"from": [ 8.5, 0.5, 7.75 ],
+			"to": [ 9, 5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 15, 9, 15.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 8.5, 11.5, 9, 11 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 9, 11, 8.5, 15.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 8.5, 11, 9, 15.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 8.5, 11, 9, 15.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 9, 11, 8.5, 15.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife3",
+			"from": [ 7, 1.5, 7.75 ],
+			"to": [ 7.5, 5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7, 14, 7.5, 14.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7, 11.5, 7.5, 11 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 7.5, 11, 7, 14.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7, 11, 7.5, 14.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7, 11, 7.5, 14.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 7.5, 11, 7, 14.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife4",
+			"from": [ 7.5, 1.5, 7.25 ],
+			"to": [ 8.5, 5, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 14, 8.5, 14.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7.5, 11.5, 8.5, 11 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 8.5, 11, 7.5, 14.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7.5, 11, 8.5, 14.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7.5, 11, 8, 14.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 8.5, 11, 8, 14.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife5",
+			"from": [ 7, 0.5, 7.25 ],
+			"to": [ 8.5, 1.5, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 7, 15, 8.5, 15.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7, 15, 8.5, 14.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 8.5, 14.5, 7, 15.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7, 14.5, 8.5, 15.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7, 14.5, 7.5, 15.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 8.5, 14.5, 8, 15.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife6",
+			"from": [ 6, 5, 7.75 ],
+			"to": [ 7, 5.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 6, 10.5, 7, 11 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 6, 11, 7, 10.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 7, 10.5, 6, 11 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 6, 10.5, 7, 11 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 6, 10.5, 6.5, 11 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 7, 10.5, 6.5, 11 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife7",
+			"from": [ 9, 5, 7.75 ],
+			"to": [ 9.5, 5.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 9, 10.5, 9.5, 11 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 9, 11, 9.5, 10.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 9.5, 10.5, 9, 11 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 9, 10.5, 9.5, 11 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 9, 10.5, 9.5, 11 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 9.5, 10.5, 9, 11 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife8",
+			"from": [ 7, 5, 7.25 ],
+			"to": [ 9, 5.5, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 7, 10.5, 9, 11 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7, 11, 9, 10.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 9, 10.5, 7, 11 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7, 10.5, 9, 11 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7, 10.5, 7.5, 11 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 9, 10.5, 8.5, 11 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife9",
+			"from": [ 6.5, 5.5, 7.75 ],
+			"to": [ 9, 14, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 10, 9, 10.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 6.5, 2.5, 9, 2 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 9, 2, 6.5, 10.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 6.5, 2, 9, 10.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 6.5, 2, 7, 10.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 9, 2, 8.5, 10.5 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife10",
+			"from": [ 7, 14, 7.75 ],
+			"to": [ 9, 15, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7, 1.5, 9, 2 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7, 1.5, 9, 1 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 9, 1, 7, 2 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7, 1, 9, 2 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7, 1, 7.5, 2 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 9, 1, 8.5, 2 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife11",
+			"from": [ 7.5, 15, 7.75 ],
+			"to": [ 8.5, 15.5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 0.5, 8.5, 1 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 7.5, 1, 8.5, 0.5 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 8.5, 0.5, 7.5, 1 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 7.5, 0.5, 8.5, 1 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 7.5, 0.5, 8, 1 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 8.5, 0.5, 8, 1 ], "texture": "#hunting_knife" }
+			}
+		},
+		{
+			"__comment": "hunting_knife12",
+			"from": [ 8, 15.5, 7.75 ],
+			"to": [ 8.5, 16, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 8, 0, 8.5, 0.5 ], "texture": "#hunting_knife" },
+				"up": { "uv": [ 8, 0.5, 8.5, 0 ], "texture": "#hunting_knife" },
+				"north": { "uv": [ 8.5, 0, 8, 0.5 ], "texture": "#hunting_knife" },
+				"south": { "uv": [ 8, 0, 8.5, 0.5 ], "texture": "#hunting_knife" },
+				"west": { "uv": [ 8, 0, 8.5, 0.5 ], "texture": "#hunting_knife" },
+				"east": { "uv": [ 8.5, 0, 8, 0.5 ], "texture": "#hunting_knife" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 1.5, 1 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, -90, 45 ],
+			"translation":  [ -10.5, -1.5, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 15 ],
+			"translation":  [ 0, 0, -6 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 0, -45 ],
+			"translation":  [ -1, -0.75, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 90 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"__comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"flare": "dayz/weapon/ammo/flare"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "flare",
+			"from": [ 6, 6, 2 ],
+			"to": [ 10, 10, 14 ],
+			"faces": {
+				"down": { "uv": [ 16, 12, 12, 0 ], "texture": "#flare" },
+				"up": { "uv": [ 4, 0, 8, 12 ], "texture": "#flare" },
+				"north": { "uv": [ 4, 16, 0, 12 ], "texture": "#flare" },
+				"south": { "uv": [ 4, 12, 8, 16 ], "texture": "#flare" },
+				"west": { "uv": [ 0, 0, 4, 12 ], "texture": "#flare", "rotation": 270 },
+				"east": { "uv": [ 8, 0, 12, 12 ], "texture": "#flare", "rotation": 90 }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 1.25, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 1.25, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 90, 105, -90 ],
+			"translation":  [ 1.13, 3.2, 1.13 ],
+			"scale":  [ 0.68, 0.68, 0.68 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 90, 105, -90 ],
+			"translation":  [ 1.13, 3.2, 1.13 ],
+			"scale":  [ 0.68, 0.68, 0.68 ]
+		},
+		"gui": {
+			"rotation":  [ 30, -45, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"ground": {
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}
