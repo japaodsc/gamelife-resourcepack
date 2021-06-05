@@ -191,6 +191,18 @@
       "dayz/cs/weapons/mp5/draw"
     ]
   },
+  "dayz.cs.weapons.empty": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/mp5/empty"
+    ]
+  },
+  "dayz.cs.weapons.zoom": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/zoom"
+    ]
+  },
   "dayz.mob.zombie.zombie1":{
   	"sounds": [
   	  "dayz/mob/zombie/zombie1"
