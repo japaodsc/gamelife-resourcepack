@@ -1,1109 +1,194 @@
 {
-   "car.idle":{
-      "sounds":[
-         "car/idle"
-      ]
-   },
-   "car.start":{
-      "sounds":[
-         "car/start"
-      ]
-   },
-   "car.accelerate":{
-      "sounds":[
-         "car/accelerate"
-      ]
-   },
-   "car.driving":{
-      "sounds":[
-         "car/driving"
-      ]
-   },
-   "car.slowingdown":{
-      "sounds":[
-         "car/slowingdown"
-      ]
-   },
-   "dayz.cs.weapons.usps": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/usps"
-    ]
-  },
-  "dayz.cs.weapons.mp7": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/mp7"
-    ]
-  },
-  "dayz.cs.weapons.r8": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/r8"
-    ]
-  },
-  "dayz.cs.weapons.k1a": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/k1a"
-    ]
-  },
-  "dayz.cs.weapons.mg36": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/mg36"
-    ]
-  },
-  "dayz.cs.weapons.tar21": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/tar21"
-    ]
-  },
-  "dayz.cs.weapons.famas": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/famas"
-    ]
-  },
-  "dayz.cs.weapons.galil": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/galil"
-    ]
-  },
-  "dayz.cs.weapons.m4a1": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/m4a1"
-    ]
-  },
-  "dayz.cs.weapons.awm": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/awm"
-    ]
-  },
-  "dayz.cs.weapons.deserteagle": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/deserteagle"
-    ]
-  },
-  "dayz.cs.weapons.glock": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/glock"
-    ]
-  },
-  "dayz.cs.weapons.anaconda": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/anaconda"
-    ]
-  },
-  "dayz.cs.random.dry_p": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/dry_p"
-    ]
-  },
-  "dayz.cs.random.dry": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/dry"
-    ]
-  },
-  "dayz.cs.weapons.winchester": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/m1887"
-    ]
-  },
-  "dayz.cs.weapons.henry": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/henry"
-    ]
-  },
-  "dayz.cs.weapons.ksg12": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/ksg12"
-    ]
-  },
-  "dayz.cs.weapons.m14": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/m14"
-    ]
-  },
-  "dayz.cs.weapons.an94": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/an94"
-    ]
-  },
-  "dayz.cs.weapons.barrett": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/barrett"
-    ]
-  },
-  "dayz.cs.weapons.mg3": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/mg3"
-    ]
-  },
-  "dayz.cs.reloads.m60e4": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/reloads/m60e4"
-    ]
-  },
-  "dayz.cs.weapons.m60e4": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/m60e4"
-    ]
-  },
-  "dayz.cs.weapons.rpk": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/rpk"
-    ]
-  },
-  "dayz.cs.random.c4_defuse": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/c4_defuse"
-    ]
-  },
-  "dayz.cs.random.c4_plant": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/c4_plant"
-    ]
-  },
-  "dayz.cs.random.c4_explode": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/c4_explode"
-    ]
-  },
-  "dayz.cs.random.headshot_shooter": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/headshot_shooter"
-    ]
-  },
-  "dayz.cs.random.headshot_victim": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/headshot_victim"
-    ]
-  },
-  "dayz.cs.random.reload_end": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/reload_end"
-    ]
-  },
-  "dayz.cs.random.reload_start": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/reload_start"
-    ]
-  },
-  "dayz.cs.random.reload_fire": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/random/reload_fire"
-    ]
-  },
-  "dayz.cs.weapons.shotgunshot": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/shotgun"
-    ]
-  },
-  "dayz.cs.weapons.uzi": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/uzi"
-    ]
-  },
-  "dayz.cs.weapons.aug": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/aug"
-    ]
-  },
-  "dayz.cs.weapons.sg552": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/sg552"
-    ]
-  },
-  "dayz.cs.weapons.57": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/57"
-    ]
-  },
-  "dayz.cs.weapons.ump45": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/ump45"
-    ]
-  },
-  "dayz.cs.weapons.carbine": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/carbine"
-    ]
-  },
-  "dayz.cs.throwables.explodegrenade": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/throwables/explodegrenade"
-    ]
-  },
-  "dayz.cs.weapons.snipershot": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/sniper"
-    ]
-  },
-  "dayz.cs.weapons.zoom": {
+  "dayz.cs.weapons.ak47.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/zoom"
+      "dayz/cs/weapons/ak47/shoot"
     ]
   },
-  "random.eat": {
+  "dayz.cs.weapons.ak47.clipin": {
     "category": "master",
     "sounds": [
-      "random/eat1",
-      "random/eat2",
-      "random/eat3"
+      "dayz/cs/weapons/ak47/clipin"
     ]
   },
-  "dayz.cs.shop.shopmenuclose": {
+  "dayz.cs.weapons.ak47.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/shop/shopmenuclose"
+      "dayz/cs/weapons/ak47/clipout"
     ]
   },
-  "dayz.cs.shop.shopbuyitem": {
+  "dayz.cs.weapons.ak47.draw": {
     "category": "master",
     "sounds": [
-      "dayz/cs/shop/shopbuyitem"
+      "dayz/cs/weapons/ak47/draw"
     ]
   },
-  "dayz.cs.weapons.smg": {
+  "dayz.cs.weapons.aug.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/smg"
+      "dayz/cs/weapons/aug/shoot"
     ]
   },
-  "dayz.cs.weapons.m249": {
+  "dayz.cs.weapons.aug.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/m249"
+      "dayz/cs/weapons/aug/clipin"
     ]
   },
-  "dayz.cs.weapons.p90": {
+  "dayz.cs.weapons.aug.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/p90"
+      "dayz/cs/weapons/aug/clipout"
     ]
   },
-  "dayz.cs.weapons.m249-r": {
+  "dayz.cs.weapons.aug.draw": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/m249-r"
+      "dayz/cs/weapons/aug/draw"
     ]
   },
-  "dayz.cs.weapons.ak47": {
+  "dayz.cs.weapons.aug.zoomin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak47"
+      "dayz/cs/weapons/aug/zoomin"
     ]
   },
-  "dayz.cs.throwables.explodeflashbang": {
+  "dayz.cs.weapons.aug.zoomout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/throwables/explodeflashbang"
+      "dayz/cs/weapons/aug/zoomout"
     ]
   },
-  "dayz.cs.throwables.explodefirebomb": {
+  "dayz.cs.weapons.awp.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/throwables/explodefirebomb"
+      "dayz/cs/weapons/awp/shoot"
     ]
   },
-  "dayz.cs.weapons.knifeswing": {
+  "dayz.cs.weapons.awp.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/knifeswing"
+      "dayz/cs/weapons/awp/clipin"
     ]
   },
-  "dayz.cs.weapons.deagle": {
+  "dayz.cs.weapons.awp.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/deagle"
+      "dayz/cs/weapons/awp/clipout"
     ]
   },
-  "dayz.cs.weapons.elite": {
+  "dayz.cs.weapons.awp.draw": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/elite"
+      "dayz/cs/weapons/awp/draw"
     ]
   },
-  "dayz.cs.reloads.reload-elites-start": {
+  "dayz.cs.weapons.awp.zoomin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/reloads/reload-elites-start"
+      "dayz/cs/weapons/awp/zoomin"
     ]
   },
-  "dayz.cs.reloads.reload-elites-end": {
+  "dayz.cs.weapons.awp.zoomout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/reloads/reload-elites-end"
+      "dayz/cs/weapons/awp/zoomout"
     ]
   },
-  "dayz.cs.reloads.ak47-reload":{
-  	"category": "master",
-  	"sounds": [
-  	  "dayz/cs/reloads/ak47-reload"
-  	]
-  },
-  "dayz.cs.weapons.infinity": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/infinity"
-    ]
-  },
-  "dayz.cs.reloads.infinity-ds": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/reloads/infinity-ds"
-    ]
-  },
-  "dayz.cs.reloads.infinity-de": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/reloads/infinity-de"
-    ]
-  },
-  "dayz.cs.shop.shopcantbuy": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/shop/shopcantbuy"
-    ]
-  },
-  "dayz.cs.throwables.grenadethrow": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/throwables/grenadethrow"
-    ]
-  },
-  "dayz.cs.throwables.explodesmoke": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/throwables/explodesmoke"
-    ]
-  },
-  "dayz.cs.shop.boughtarmor": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/shop/boughtarmor"
-    ]
-  },
-  "dayz.cs.shop.shopmenuopen": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/shop/shopmenuopen"
-    ]
-  },
-  "random.bowhit": {
-    "category": "master",
-    "sounds": [
-      "random/bowhit1",
-      "random/bowhit2",
-      "random/bowhit3",
-      "random/bowhit4"
-    ]
-  },
-  "dayz.cs.weapons.xm1014": {
+  "dayz.cs.weapons.deagle.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/xm1014"
+      "dayz/cs/weapons/deagle/shoot"
     ]
   },
-  "dayz.cs.weapons.thompson": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/thompson"
-    ]
-  },"dayz.cs.weapons.bow": {
+  "dayz.cs.weapons.deagle.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/bow"
+      "dayz/cs/weapons/deagle/clipin"
     ]
   },
-  "dayz.cs.weapons.scar": {
+  "dayz.cs.weapons.deagle.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/scar"
+      "dayz/cs/weapons/deagle/clipout"
     ]
   },
-  "dayz.cs.weapons.scout": {
+  "dayz.cs.weapons.deagle.draw": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/scout"
+      "dayz/cs/weapons/deagle/draw"
     ]
   },
-  "dayz.cs.random.reload_sg": {
+  "dayz.cs.weapons.glock.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/random/reload_sg"
-    ]
-  },
-  "dayz.cs.musics.ct_start": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/ct_start",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.ct_action": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/ct_action",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.ct_win": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/ct_win",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.ct_lose": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/ct_lose",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.t_start": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/t_start",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.t_action": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/t_action",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.t_win": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/t_win",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.t_lose": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/t_lose",
-        "stream": true
-      }
+      "dayz/cs/weapons/glock/shoot"
     ]
   },
-  "dayz.cs.musics.result": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/result",
-        "stream": true
-      }
-    ]
-  },
-  "dayz.cs.musics.ze_start": {
+  "dayz.cs.weapons.glock.clipin": {
     "category": "master",
     "sounds": [
-      {
-	    "name": "dayz/cs/musics/ze_start",
-        "stream": true
-      }
+      "dayz/cs/weapons/glock/clipin"
     ]
   },
-  "dayz.cs.musics.ze_run": {
+  "dayz.cs.weapons.glock.clipout": {
     "category": "master",
     "sounds": [
-      {
-	    "name": "dayz/cs/musics/ze_run",
-        "stream": true
-      }
+      "dayz/cs/weapons/glock/clipout"
     ]
   },
-  "dayz.cs.musics.csikospost": {
+  "dayz.cs.weapons.glock.draw": {
     "category": "master",
     "sounds": [
-      {
-	    "name": "dayz/cs/musics/csikospost",
-        "stream": true
-      }
+      "dayz/cs/weapons/glock/draw"
     ]
   },
-  "dayz.cs.weapons.pistolshot": {
+  "dayz.cs.weapons.m4a1.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/pistol"
+      "dayz/cs/weapons/m4a1/shoot"
     ]
   },
-  "dayz.voice.friendly": {
+  "dayz.cs.weapons.m4a1.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/voice/friendly"
+      "dayz/cs/weapons/m4a1/clipin"
     ]
   },
-  "dayz.voice.hey": {
+  "dayz.cs.weapons.m4a1.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/voice/hey"
+      "dayz/cs/weapons/m4a1/clipout"
     ]
   },
-  "dayz.voice.leave": {
+  "dayz.cs.weapons.m4a1.draw": {
     "category": "master",
     "sounds": [
-      "dayz/voice/leave"
+      "dayz/cs/weapons/m4a1/draw"
     ]
   },
-  "dayz.voice.team": {
+  "dayz.cs.weapons.mp5.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/voice/team"
+      "dayz/cs/weapons/mp5/shoot"
     ]
   },
-  "dayz.voice.warn": {
+  "dayz.cs.weapons.mp5.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/voice/warn"
+      "dayz/cs/weapons/mp5/clipin"
     ]
   },
-  "dayz.voice.watchout": {
+  "dayz.cs.weapons.mp5.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/voice/watchout"
-    ]
-  },
-  "dayz.voice.fireinhole":{
-  	"sounds":[
-  	  "dayz/voice/fireinhole"
-  	]
-  },
-  "dayz.voice.explodeflashbang":{
-  	"sounds":[
-  	  "dayz/voice/explodeflashbang"
-  	]
-  },
-  "dayz.voice.explodegrenade":{
-  	"sounds":[
-  	  "dayz/voice/explodegrenade"
-  	]
-  },
-  "dayz.voice.explodesmoke":{
-  	"sounds":[
-  	  "dayz/voice/explodesmoke"
-  	]
-  },
-  "dayz.voice.flashbang":{
-  	"sounds":[
-  	  "dayz/voice/flashbang"
-  	]
-  },
-  "dayz.voice.inc-explode":{
-  	"sounds":[
-  	  "dayz/voice/inc-explode"
-  	]
-  },
-  "dayz.voice.molo-explode":{
-  	"sounds":[
-  	  "dayz/voice/molo-explode"
-  	]
-  },
-  "dayz.voice.smoke":{
-  	"sounds":[
-  	  "dayz/voice/smoke"
-  	]
-  },
-  "dayz.voice.throwbom":{
-    "sounds":[
-      "dayz/voice/throwbom"
-    ]
-  },
-  "dayz.voice.molo-voice":{
-    "sounds":[
-      "dayz/voice/molo-voice"
+      "dayz/cs/weapons/mp5/clipout"
     ]
   },
-  "dayz.voice.buzz":{
-    "category": "master",
-  	"sounds":[
-  	  "dayz/voice/buzz"
-  	]
-  },
-  "dayz.cs.musics.happytown": {
+  "dayz.cs.weapons.mp5.draw": {
     "category": "master",
-    "sounds": [
-      {
-	    "name": "dayz/cs/musics/happytown",
-        "stream": true
-      }
-    ]
-  },"dayz.guns.silencer": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/silencer"
-    ]
-  },
-  "dayz.guns.dist_longmuffledshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_longmuffledshot"
-    ]
-  },
-  "dayz.guns.reloadlong": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/reloadlong"
-    ]
-  },
-  "dayz.guns.reloadmedium": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/reloadmedium"
-    ]
-  },
-  "dayz.guns.dist_powerfulsniper": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_powerfulsniper"
-    ]
-  },
-  "dayz.guns.dist_rifle": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_rifle"
-    ]
-  },
-  "dayz.guns.sniperdist": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/sniperdist"
-    ]
-  },
-  "dayz.guns.dist_shotgun": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_shotgun"
-    ]
-  },
-  "dayz.guns.dist_faintshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_faintshot"
-    ]
-  },
-  "dayz.guns.snipershotlong": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/snipershotlong"
-    ]
-  },
-  "dayz.guns.assaultshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/assaultshot"
-    ]
-  },
-  "dayz.guns.bang": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/bang"
-    ]
-  },
-  "dayz.guns.snipersnap": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/snipersnap"
-    ]
-  },
-  "dayz.guns.riflebang": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/riflebang"
-    ]
-  },
-  "dayz.guns.shotgunslug": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/shotgunslug"
-    ]
-  },
-  "dayz.guns.smallbang": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/smallbang"
-    ]
-  },
-  "dayz.guns.dingding": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dingding"
-    ]
-  },
-  "dayz.guns.rifleshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/rifleshot"
-    ]
-  },
-  "dayz.guns.soundbarrier": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/soundbarrier"
-    ]
-  },
-  "dayz.guns.lightbang": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/lightbang"
-    ]
-  },
-  "dayz.guns.machinegun": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/machinegun"
-    ]
-  },
-  "dayz.guns.assault": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/assault"
-    ]
-  },
-  "dayz.guns.heavythud": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/heavythud"
-    ]
-  },
-  "dayz.guns.reloadfinish": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/reloadfinish"
-    ]
-  },
-  "dayz.guns.reloadquick": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/reloadquick"
-    ]
-  },
-  "dayz.guns.popshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/popshot"
-    ]
-  },
-  "dayz.guns.swap": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/swap"
-    ]
-  },
-  "dayz.guns.pin": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/pin"
-    ]
-  },
-  "dayz.guns.smoke": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/smoke"
-    ]
-  },
-  "dayz.guns.swapsmall": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/swapsmall"
-    ]
-  },
-  "dayz.guns.swapmelee": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/swapmelee"
-    ]
-  },
-  "dayz.guns.swaplarge": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/swaplarge"
-    ]
-  },
-  "dayz.guns.swapblunt": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/swapblunt"
-    ]
-  },
-  "dayz.guns.loudassault": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/loudassault"
-    ]
-  },
-  "dayz.guns.loudsniper": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/loudsniper"
-    ]
-  },
-  "dayz.guns.dist_deepthud": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_deepthud"
-    ]
-  },
-  "dayz.guns.dist_crack": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_crack"
-    ]
-  },
-  "dayz.guns.dist_smg": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_smg"
-    ]
-  },
-  "dayz.guns.dist_assaultshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_assaultshot"
-    ]
-  },
-  "dayz.guns.dist_longassault": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_longassault"
-    ]
-  },
-  "dayz.guns.smg": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/smg"
-    ]
-  },
-  "dayz.guns.dist_powerful": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_powerful"
-    ]
-  },
-  "dayz.guns.burst": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/burst"
-    ]
-  },
-  "dayz.guns.deepstab": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/deepstab"
-    ]
-  },
-  "dayz.guns.lightmachinegun": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/lightmachinegun"
-    ]
-  },
-  "dayz.guns.mediumassault": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/mediumassault"
-    ]
-  },
-  "dayz.guns.metallic": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/metallic"
-    ]
-  },
-  "dayz.guns.oldrifle": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/oldrifle"
-    ]
-  },
-  "dayz.guns.quickpop": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/quickpop"
-    ]
-  },
-  "dayz.guns.quicksnap": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/quicksnap"
-    ]
-  },
-  "dayz.guns.rifleecho": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/rifleecho"
-    ]
-  },
-  "dayz.guns.semisniper": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/semisniper"
-    ]
-  },
-  "dayz.guns.sharpboom": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/sharpboom"
-    ]
-  },
-  "dayz.guns.pump": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/pump"
-    ]
-      },
-  "dayz.guns.dist_heavyshot": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_heavyshot"
-    ]
-  },
-  "dayz.guns.metalhit": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/metalhit"
-    ]
-  },
-  "dayz.guns.dist_shotgundeep": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_shotgundeep"
-    ]
-  },
-  "dayz.guns.dist_rip": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_rip"
-    ]
-  },
-  "dayz.guns.dist_bulletpop": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_bulletpop"
-    ]
-  },
-  "dayz.guns.dist_quick": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_quick"
-    ]
-  },
-  "dayz.guns.dist_pistol": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_pistol"
-    ]
-  },
-  "dayz.guns.dist_tac": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/dist_tac"
-    ]
-  },
-  "dayz.guns.siren": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/siren"
-    ]
-  },
-  "dayz.guns.ricochet_50cal": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_50cal"
-    ]
-  },
-  "dayz.guns.ricochet_automatic": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_automatic"
-    ]
-  },
-  "dayz.guns.ricochet_pistol": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_pistol"
-    ]
-  },
-  "dayz.guns.ricochet_rifle": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_rifle"
-    ]
-  },
-  "dayz.guns.ricochet_smg": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_smg"
-    ]
-  },
-  "dayz.guns.ricochet_sniper": {
-    "category": "player",
-    "sounds": [
-      "dayz/guns/ricochet_sniper"
-    ]
-  },
-  "dayz.guns.singleshot": {
-    "category": "player",
     "sounds": [
-      "dayz/guns/singleshot"
+      "dayz/cs/weapons/mp5/draw"
     ]
   },
   "dayz.mob.zombie.zombie1":{
