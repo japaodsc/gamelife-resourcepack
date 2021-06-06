@@ -1,3 +1,2 @@
 # gamelife-resourcepack
-Thich nhin k ?
-Chim cut' ?
+Gamelife Resource-pack ok

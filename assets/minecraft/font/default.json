@@ -72,13 +72,6 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:dayz/ui/menu_buysell.png",
-            "ascent": 25,
-            "height": 256,
-            "chars": ["ꀊ"]
-        },
-        {
-            "type": "bitmap",
             "file": "minecraft:dayz/ui/weapon_type.png",
             "ascent": 8,
             "height": 8,
@@ -111,6 +104,13 @@
             "ascent": 8,
             "height": 8,
             "chars": ["퀄"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dayz/ui/chat_logo.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["퀅"]
         },
         {
             "type": "bitmap",
