@@ -72,6 +72,20 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:dayz/ui/menu_buysell.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["ꀊ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dayz/ui/menu_respawn.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["ꀋ"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:dayz/ui/weapon_type.png",
             "ascent": 8,
             "height": 8,
