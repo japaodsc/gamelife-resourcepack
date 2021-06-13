@@ -1,4 +1,2 @@
-# GAMELIFE RESOURCEPACK
-**Official Gamelife ResourcePack Repository**  
-Please respect our work by not duplicate, share or use without our authorization.  
-© 2021 KingCiC & Gamelife Team  
+# gamelife-resourcepack
+Gamelife Resource-pack ok
