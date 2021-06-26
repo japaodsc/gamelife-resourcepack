@@ -86,6 +86,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:dayz/ui/menu_taphoa.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["ꀌ"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:dayz/ui/weapon_type.png",
             "ascent": 8,
             "height": 8,
@@ -130,7 +137,7 @@
             "type": "bitmap",
             "file": "minecraft:dayz/ui/book_test.png",
             "ascent": 8,
-            "height": 122,
+            "height": 50,
             "chars": ["҉"]
         },
         {

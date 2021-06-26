@@ -1,13 +1,13 @@
 {
 "__comment": "Designed by Shiro - Suck my Cock Enterprises",
 "textures": {
-    "Strings": "blocks/wool_colored_silver",
-    "pack seconary": "blocks/wool_colored_black",
-    "pack main": "blocks/wool_colored_gray",
-    "chute top": "blocks/wool_colored_white",
-    "pack top": "blocks/cauldron_inner",
-    "stringers": "blocks/wool_colored_silver",
-    "straps": "blocks/wool_colored_black"
+    "Strings": "block/wool_colored_silver",
+    "pack seconary": "block/wool_colored_black",
+    "pack main": "block/wool_colored_gray",
+    "chute top": "block/wool_colored_white",
+    "pack top": "block/cauldron_inner",
+    "stringers": "block/wool_colored_silver",
+    "straps": "block/wool_colored_black"
 },
 "elements": [ 
 {
