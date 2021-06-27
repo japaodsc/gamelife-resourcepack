@@ -185,6 +185,18 @@
       "dayz/cs/weapons/mp5/clipout"
     ]
   },
+  "dayz.cs.weapons.zoom": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/zoom"
+    ]
+  },
+  "dayz.cs.weapons.empty": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/empty"
+    ]
+  },
   "dayz.cs.weapons.mp5.draw": {
     "category": "master",
     "sounds": [
