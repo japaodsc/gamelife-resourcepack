@@ -5,10 +5,10 @@
       "dayz/cs/weapons/ak74/shoot"
     ]
   },
-  "dayz.cs.weapons.ak74.clipin": {
+  "dayz.cs.weapons.ak74.reload": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak74/clipin"
+      "dayz/cs/weapons/ak74/reload"
     ]
   },
   "dayz.cs.weapons.akm.shoot": {
@@ -17,10 +17,10 @@
       "dayz/cs/weapons/akm/shoot"
     ]
   },
-  "dayz.cs.weapons.ak74.clipout": {
+  "dayz.cs.weapons.akm.reload": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak74/clipout"
+      "dayz/cs/weapons/akm/reload"
     ]
   },
   "dayz.cs.weapons.aug.shoot": {
@@ -101,10 +101,22 @@
       "dayz/cs/weapons/b95/shoot"
     ]
   },
+  "dayz.cs.weapons.b95.reload": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/b95/reload"
+    ]
+  },
   "dayz.cs.weapons.colt1911.shoot": {
     "category": "master",
     "sounds": [
       "dayz/cs/weapons/colt1911/shoot"
+    ]
+  },
+  "dayz.cs.weapons.colt1911.reload": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/colt1911/reload"
     ]
   },
   "dayz.cs.weapons.cr527.shoot": {
@@ -113,16 +125,46 @@
       "dayz/cs/weapons/cr527/shoot"
     ]
   },
+  "dayz.cs.weapons.cr527.reload": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cr527/reload"
+    ]
+  },
   "dayz.cs.weapons.cz61.shoot": {
     "category": "master",
     "sounds": [
       "dayz/cs/weapons/cz61/shoot"
     ]
   },
+  "dayz.cs.weapons.cz61.clipin": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz61/clipin"
+    ]
+  },
+  "dayz.cs.weapons.cz61.clipout": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz61/clipout"
+    ]
+  },
   "dayz.cs.weapons.cz75.shoot": {
     "category": "master",
     "sounds": [
       "dayz/cs/weapons/cz75/shoot"
+    ]
+  },
+  "dayz.cs.weapons.cz75.clipin": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz75/clipin"
+    ]
+  },
+  "dayz.cs.weapons.cz75.clipout": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz75/clipout"
     ]
   },
   "dayz.cs.weapons.deagle.shoot": {
@@ -179,16 +221,10 @@
       "dayz/cs/weapons/m4a1/shoot"
     ]
   },
-  "dayz.cs.weapons.m4a1.clipin": {
+  "dayz.cs.weapons.m4a1.reload": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/m4a1/clipin"
-    ]
-  },
-  "dayz.cs.weapons.m4a1.clipout": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/m4a1/clipout"
+      "dayz/cs/weapons/m4a1/reload"
     ]
   },
   "dayz.cs.weapons.m4a1.draw": {
@@ -215,6 +251,12 @@
       "dayz/cs/weapons/mp5k/clipout"
     ]
   },
+  "dayz.cs.weapons.mp5k.draw": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/mp5k/draw"
+    ]
+  },
   "dayz.cs.weapons.zoom": {
     "category": "master",
     "sounds": [
@@ -225,12 +267,6 @@
     "category": "master",
     "sounds": [
       "dayz/cs/weapons/empty"
-    ]
-  },
-  "dayz.cs.weapons.mp5.draw": {
-    "category": "master",
-    "sounds": [
-      "dayz/cs/weapons/mp5/draw"
     ]
   },
   "dayz.mob.zombie.zombie1":{
