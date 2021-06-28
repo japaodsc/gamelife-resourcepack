@@ -1,26 +1,26 @@
 {
-  "dayz.cs.weapons.ak47.shoot": {
+  "dayz.cs.weapons.ak74.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak47/shoot"
+      "dayz/cs/weapons/ak74/shoot"
     ]
   },
-  "dayz.cs.weapons.ak47.clipin": {
+  "dayz.cs.weapons.ak74.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak47/clipin"
+      "dayz/cs/weapons/ak74/clipin"
     ]
   },
-  "dayz.cs.weapons.ak47.clipout": {
+  "dayz.cs.weapons.akm.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak47/clipout"
+      "dayz/cs/weapons/akm/shoot"
     ]
   },
-  "dayz.cs.weapons.ak47.draw": {
+  "dayz.cs.weapons.ak74.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/ak47/draw"
+      "dayz/cs/weapons/ak74/clipout"
     ]
   },
   "dayz.cs.weapons.aug.shoot": {
@@ -95,6 +95,36 @@
       "dayz/cs/weapons/awp/zoomout"
     ]
   },
+  "dayz.cs.weapons.b95.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/b95/shoot"
+    ]
+  },
+  "dayz.cs.weapons.colt1911.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/colt1911/shoot"
+    ]
+  },
+  "dayz.cs.weapons.cr527.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cr527/shoot"
+    ]
+  },
+  "dayz.cs.weapons.cz61.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz61/shoot"
+    ]
+  },
+  "dayz.cs.weapons.cz75.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/cz75/shoot"
+    ]
+  },
   "dayz.cs.weapons.deagle.shoot": {
     "category": "master",
     "sounds": [
@@ -167,22 +197,22 @@
       "dayz/cs/weapons/m4a1/draw"
     ]
   },
-  "dayz.cs.weapons.mp5.shoot": {
+  "dayz.cs.weapons.mp5k.shoot": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/mp5/shoot"
+      "dayz/cs/weapons/mp5k/shoot"
     ]
   },
-  "dayz.cs.weapons.mp5.clipin": {
+  "dayz.cs.weapons.mp5k.clipin": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/mp5/clipin"
+      "dayz/cs/weapons/mp5k/clipin"
     ]
   },
-  "dayz.cs.weapons.mp5.clipout": {
+  "dayz.cs.weapons.mp5k.clipout": {
     "category": "master",
     "sounds": [
-      "dayz/cs/weapons/mp5/clipout"
+      "dayz/cs/weapons/mp5k/clipout"
     ]
   },
   "dayz.cs.weapons.zoom": {
