@@ -426,5 +426,10 @@
   	"sounds":[
  	  "dayz/music/soundbg"
   	]
+  },
+  "dayz.music.itg":{
+  	"sounds":[
+ 	  "dayz/music/itg"
+  	]
   }
 }
