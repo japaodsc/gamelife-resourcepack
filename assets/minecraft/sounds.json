@@ -191,6 +191,31 @@
       "dayz/cs/weapons/deagle/draw"
     ]
   },
+  "dayz.cs.weapons.kar98.shoot": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/kar98/shoot"
+    ]
+  },
+  "dayz.cs.weapons.kar98.clipin": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/kar98/clipin"
+    ]
+  },
+  "dayz.cs.weapons.kar98.clipout": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/kar98/clipout"
+    ]
+  },
+  "dayz.cs.weapons.kar98.draw": {
+    "category": "master",
+    "sounds": [
+      "dayz/cs/weapons/kar98/draw"
+    ]
+  },
+
   "dayz.cs.weapons.glock.shoot": {
     "category": "master",
     "sounds": [
