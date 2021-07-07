@@ -1,0 +1,61 @@
+{
+	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "dayz/furniture/trash_can"
+	},
+	"elements": [
+		{
+			"__comment": "Cube1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 22, 16 ],
+			"faces": {
+				"down": { "uv": [ 3, 0, 6, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 0, 6, 3 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 3, 3, 7 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 3, 3, 7 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 3, 3, 7 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 3, 3, 7 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube4",
+			"from": [ 3, 24, 5 ],
+			"to": [ 12, 26, 11 ],
+			"faces": {
+				"down": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"south": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"east": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Cube4",
+			"from": [ -1, 22, -1 ],
+			"to": [ 17, 24, 17 ],
+			"faces": {
+				"down": { "uv": [ 3, 0, 6, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 3, 3 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"south": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" },
+				"east": { "uv": [ 3, 3, 4.5, 3.5 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 13, -17, 0 ],
+			"translation":  [ 0.0006, -2.086, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"ground": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "gui/gui_cover",
-  "textures": {
-    "cover": "gui/gui_img/test7"
-  }
-}

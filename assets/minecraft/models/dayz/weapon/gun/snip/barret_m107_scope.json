@@ -1290,45 +1290,6 @@
 				"west": { "uv": [ 8.375, 8.625, 8.5, 8.875 ], "texture": "#barretm107" },
 				"east": { "uv": [ 8.25, 8, 8.125, 8.25 ], "texture": "#barretm107" }
 			}
-		},
-		{
-			"__comment": "Box100",
-			"from": [ -3.5, 10.5, 8.5 ],
-			"to": [ -3.499, 11.5, 9.5 ],
-			"faces": {
-				"down": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"up": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" },
-				"north": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" },
-				"south": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"west": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"east": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" }
-			}
-		},
-		{
-			"__comment": "Box102",
-			"from": [ 9.5, 10.95, 8.95 ],
-			"to": [ 9.501, 11.05, 9.05 ],
-			"faces": {
-				"down": { "uv": [ 10, 11, 11, 12 ], "texture": "#barretm107" },
-				"up": { "uv": [ 10, 11, 11, 12 ], "texture": "#barretm107" },
-				"north": { "uv": [ 9.999999, 11, 11, 12 ], "texture": "#barretm107" },
-				"south": { "uv": [ 9.999999, 11, 11, 12 ], "texture": "#barretm107" },
-				"west": { "uv": [ 10, 11, 11, 12 ], "texture": "#barretm107" },
-				"east": { "uv": [ 10, 11, 11, 12 ], "texture": "#barretm107" }
-			}
-		},
-		{
-			"__comment": "Box100",
-			"from": [ 9.5, 10.5, 8.5 ],
-			"to": [ 9.501, 11.5, 9.5 ],
-			"faces": {
-				"down": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"up": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" },
-				"north": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" },
-				"south": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"west": { "uv": [ 10, 12, 12, 14 ], "texture": "#barretm107" },
-				"east": { "uv": [ 9.999999, 12, 12, 14 ], "texture": "#barretm107" }
-			}
 		}
 	],
 	"display": {
@@ -1344,7 +1305,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, 90, 0 ],
-			"translation":  [ -9.96, 5.34, -1.381 ]
+			"translation":  [ -10, 5.34, -1.392 ]
 		},
 		"firstperson_lefthand": {
 			"scale":  [ 0.0001, 0.0001, 0.0001 ]
